@@ -19,30 +19,39 @@ def read_cif(cif_file):
             ndx2plddt[int(ndx)] = float(plddt)
     return ndx2plddt, fasta
 
-def get_plddt(ndx2plddt, bridge, lasso):
+def get_plddt(ndx2plddt, bridge, lasso, edges):
     plddt_global = np.mean(list(ndx2plddt.values()))
     plddt_global_min = min(list(ndx2plddt.values()))
     if bridge != '-':
-        beg, end = [int(x) for x in bridge.split('-')]
-        plddt_cys1 = ndx2plddt[beg]
-        plddt_cys2 = ndx2plddt[end]
-        if lasso[-1] == 'N':
-            plddt_short = [v for k,v in ndx2plddt.items() if k <= end]
-            plddt_local = np.mean(plddt_short)
-            plddt_local_min = min(plddt_short)
-        elif lasso[-1] == 'C':
-            plddt_short = [v for k,v in ndx2plddt.items() if k >= beg]
-            plddt_local = np.mean(plddt_short)
-            plddt_local_min = min(plddt_short)
-        else:
-            plddt_local = plddt_global
-            plddt_local_min = plddt_global_min
+        cys1, cys2 = [int(x) for x in bridge.split('-')]
+        beg, end = edges
+        plddt_cys1 = ndx2plddt[cys1]
+        plddt_cys2 = ndx2plddt[cys2]
+        plddt_short = [v for k,v in ndx2plddt.items() if beg <= k <= end]
+        plddt_local = np.mean(plddt_short)
+        plddt_local_min = min(plddt_short)
     else:
         plddt_local = -1
         plddt_local_min = -1
         plddt_cys1 = -1
         plddt_cys2 = -1
     return plddt_cys1, plddt_cys2, plddt_local, plddt_local_min, plddt_global, plddt_global_min
+
+def find_lasso_edges():
+    uniid2edges = {}
+    with open('lassos_surfaces_no_dupl.tsv', 'r') as f:
+        for line in f.readlines():
+            record_id, lasso, _, _, Ncross, Ccross, *_ = line.strip().split()
+            uniprot_id, bridge = record_id.split('_')
+            uniprot_id = uniprot_id.split('-')[1]
+            ndxes = set([int(x) for x in bridge.split('-')])
+            if Ncross != '""':
+                ndxes |= set([int(x.strip('*+-')) for x in Ncross.split(',')])
+            if Ccross != '""':
+                ndxes |= set([int(x.strip('*+-')) for x in Ccross.split(',')])
+            uniid2edges[uniprot_id] = min(ndxes), max(ndxes)
+    return uniid2edges
+
 
 def prepare():
     clusters = set([])
@@ -53,10 +62,11 @@ def prepare():
     clusters = sorted(clusters)
     with open('failed_downloads.txt', 'r') as f:
         absent = set(f.read().split('\n'))
-    return clusters, absent
+    uniid2edges = find_lasso_edges()
+    return clusters, absent, uniid2edges
 
 if __name__ == '__main__':
-    clusters, absent = prepare()
+    clusters, absent, uniid2edges = prepare()
     for cluster in tqdm(clusters, total = len(clusters)):
         with open('clusters/{}.txt'.format(cluster), 'r') as f:
             with open('clusters2/{}.txt'.format(cluster), 'w') as g:
@@ -69,14 +79,20 @@ if __name__ == '__main__':
                         if uniprot_id in absent:
                             lasso = 'no_struct'
                             plddts_str = '   '.join(['-1']*6)
+                            edges = bridge
                         else:
                             ndx2plddt, fasta = read_cif('cifs/AF-{}-F1-model_v4.cif'.format(uniprot_id))
-                            plddts = get_plddt(ndx2plddt, bridge, lasso)
+                            if uniprot_id in uniid2edges:
+                                edges = uniid2edges[uniprot_id]
+                            else:
+                                edges = bridge
+                            plddts = get_plddt(ndx2plddt, bridge, lasso, edges)
                             plddts = [str(round(x,1)) for x in plddts]
                             plddts_str = '{:4} {:4} {:4} {:4} {:4} {:4}'.format(*plddts)
                             gg.write('>{}\n'.format(uniprot_id))
                             gg.write(fasta + '\n')
-                        record = [uniprot_id, lasso, bridge, plddts_str]
+                        edges = '-'.join([str(x) for x in edges])
+                        record = [uniprot_id, lasso, bridge, edges, plddts_str]
                         if lasso[0] == 'L':
                             to_write.append(record)
                         elif lasso[0] == 'n':
@@ -86,7 +102,7 @@ if __name__ == '__main__':
                     to_write += to_write_else
                     to_write += to_write_no_struct
                     for record in to_write:
-                        g.write('{:10} {:28} {:7} {}\n'.format(*record))
+                        g.write('{:10} {:28} {:7} {:7} {}\n'.format(*record))
 
 
 
