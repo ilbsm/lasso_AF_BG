@@ -1,0 +1,50 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+B3S5X6_80.6_77.8_84.0_37.5_84.7_37.5          ---------------------------------------------------------FRP	3
+A0A369RX75_79.5_78.9_79.5_35.8_75.3_20.4      MSQEELSSILPIHPSEISYTNNAGDTNQQFNDKDDDYDDLHDDLDSLDEISECGLGYFRP	60
+                                                                                                       ***
+
+B3S5X6_80.6_77.8_84.0_37.5_84.7_37.5          QWLQVFNNSFWLLIILCYFSTIGTAFLGFKAVIAPILEKRYNMTSTEVGAIMSSADISAA	63
+A0A369RX75_79.5_78.9_79.5_35.8_75.3_20.4      QWLQVFNNSFWLLIILCYFSTIGTAFLGFKAVIAPILEKRYNMTSTEVGAIMSSADISAA	120
+                                              ************************************************************
+
+B3S5X6_80.6_77.8_84.0_37.5_84.7_37.5          INGILLTFYASQKHKGRWIGYSLLLYIVGTMLFVAPHFLVDDYYYLEDDSGKTLCHRSIN	123
+A0A369RX75_79.5_78.9_79.5_35.8_75.3_20.4      INGILLTFYASQKHKGRWIGYSLLLYIVGTMLFVAPHFLVDDYYYLEDDSGKTLCHRSIN	180
+                                              ************************************************************
+
+B3S5X6_80.6_77.8_84.0_37.5_84.7_37.5          TTSIDEKCSKSYEPSTFWICPFLFVLGQILCGAGNATRYNLSVAYLDENVSPIISPLYVG	183
+A0A369RX75_79.5_78.9_79.5_35.8_75.3_20.4      TTSIDEKCSKSYEPSTFWICPFLFVLGQILCGAGNATRYNLSVAYLDENVSPTISPLYVG	240
+                                              **************************************************** *******
+
+B3S5X6_80.6_77.8_84.0_37.5_84.7_37.5          IIHMMSIIGPTLGYVIGGALTNVYVDWPKDPPNGLTSNSVAWVGAWWINYLGIVVLIALT	243
+A0A369RX75_79.5_78.9_79.5_35.8_75.3_20.4      IIHMMSIIGPTLGYVIGGALTNVYVDWPKDPPNGLTSNSVAWVGAWWINYLGIVVLIALT	300
+                                              ************************************************************
+
+B3S5X6_80.6_77.8_84.0_37.5_84.7_37.5          VLFVFAFPRHLPSYYNTRQERIKEATVATQHMDYQYGNRMIDLPKAIKQLLSNKIFMFAS	303
+A0A369RX75_79.5_78.9_79.5_35.8_75.3_20.4      VLFVFAFPRHLPSYYNTRQERIKEATVATQHMDYQYGNRMIDLPKAIKQLLSNKIFMFAS	360
+                                              ************************************************************
+
+B3S5X6_80.6_77.8_84.0_37.5_84.7_37.5          FGITVDKVAINGLTMFLPQYIQAQTGYSLLVASMLGGGLISFIASVGQVAGGYVIKRWKL	363
+A0A369RX75_79.5_78.9_79.5_35.8_75.3_20.4      FGITVDKVAINGLTMFLPQYIQAQTGYSLLVASMLGGGLISFIASVGQVAGGYVIKRWKL	420
+                                              ************************************************************
+
+B3S5X6_80.6_77.8_84.0_37.5_84.7_37.5          KGSQISRFCFFTSICNFLLGGVYLISCPNIPIAGVNIPY----------------ANITY	407
+A0A369RX75_79.5_78.9_79.5_35.8_75.3_20.4      KGSQISRFCFFTSICNFLLGGVYLISCPNIPIAGVNIPYNFNNSQIDISLPLNTYANITY	480
+                                              ***************************************                *****
+
+B3S5X6_80.6_77.8_84.0_37.5_84.7_37.5          KAACNSHCLCDSVPFEPVCGGDGISYLSPCHAGCSSLKESDFNNNLVYKNCTCVPSATPG	467
+A0A369RX75_79.5_78.9_79.5_35.8_75.3_20.4      KAACNSHCLCDSVPFEPVCGGDGISYLSPCHAGCSSLKESDFNNNLVYKNCTCVPSATPG	540
+                                              ************************************************************
+
+B3S5X6_80.6_77.8_84.0_37.5_84.7_37.5          FCQVPICQPLYALMIGITFSVIAAYISYSPTLTVILRNVPESQVSFALGVLGFMKRMIGG	527
+A0A369RX75_79.5_78.9_79.5_35.8_75.3_20.4      FCQVPICQPLYALMIGITFSVIAAYISYSPTLTVILRNVPESQVSFALGVLGFMKRMIGG	600
+                                              ************************************************************
+
+B3S5X6_80.6_77.8_84.0_37.5_84.7_37.5          LLGPIFLGIVMDKACSLWNIECDHNQFCWQYDNRDMSKNMFITMIVFKGMQVIIYAVLWY	587
+A0A369RX75_79.5_78.9_79.5_35.8_75.3_20.4      LLGPIFLGIVMDKACSLWNIECDHNQFCWQYDNRDMSKNMFITMIVFKGMQVIIYAVLWY	660
+                                              ************************************************************
+
+B3S5X6_80.6_77.8_84.0_37.5_84.7_37.5          FH------------------------------------------------	589
+A0A369RX75_79.5_78.9_79.5_35.8_75.3_20.4      FHRKDEKRYLQDIGQVSQLSTLTSTKLAGTLLPSEVDSLNETTQPLLNSK	710
+                                              **                                                

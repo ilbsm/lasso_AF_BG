@@ -1,0 +1,62 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+B3S2R8_76.8_75.6_84.3_32.2_85.3_32.2          ------------------------------------GWGCFHPQYIQLFNSQKWLMAFIG	24
+A0A369S504_77.1_75.0_82.6_30.8_80.7_25.8      MVARSSKTSEIATLRTDGICSAQENSIDDQTYQYRYGWGCFHPQYIQLFNSQKWLMAFIG	60
+A0A369RVP0_-1___-1___-1___-1___72.7_31.1      MVARSSKTSEIATLRTDGICSAQENSIDDQTYQYRYGWGCFHPQYIQLFNSQKWLMAFIG	60
+                                                                                  ************************
+
+B3S2R8_76.8_75.6_84.3_32.2_85.3_32.2          IYIFISGIQTTGLGGVVITSLETRYELRSAETGLFTSSYEVAAAICGLVISYYAGQRHKG	84
+A0A369S504_77.1_75.0_82.6_30.8_80.7_25.8      IYIFISGIQTTGLGGVVITSLETRYELRSAETGLFTSSYEVAAAICGLVISYYAGQRHKG	120
+A0A369RVP0_-1___-1___-1___-1___72.7_31.1      IYIFISGIQTTGLGGVVITSLETRYELRSAETGLFTSSYEVAAAICGLVISYYAGQRHKG	120
+                                              ************************************************************
+
+B3S2R8_76.8_75.6_84.3_32.2_85.3_32.2          KFIATGSVMAGLGAVAFVSPHFFSGKYSPINSEITSNLCFESLNKSIASNTSSVCNSYIA	144
+A0A369S504_77.1_75.0_82.6_30.8_80.7_25.8      KFIATGSVMAGLGAVAFVSPHFFSGKYSPINSEITSNLCFESLNKSIASNTSSVCNSYIA	180
+A0A369RVP0_-1___-1___-1___-1___72.7_31.1      KFIATGSVMAGLGAVAFVSPHFFSGKYSPINSEITSNLCFESLNKSIASNTSSVCNSYIA	180
+                                              ************************************************************
+
+B3S2R8_76.8_75.6_84.3_32.2_85.3_32.2          SSARNYLYIFIAAQVIIGTGNNLMWNVGMAYVDENVDPVASSVYIGIMVTLSAIGPAIGY	204
+A0A369S504_77.1_75.0_82.6_30.8_80.7_25.8      SSARNYLYIFIAAQVIIGTGNNLMWNVGMAYVDENVDPVASSVYIGIMVTLSAIGPAIGY	240
+A0A369RVP0_-1___-1___-1___-1___72.7_31.1      SSARNYLYIFIAAQVIIGTGNNLMWNVGMAYVDENVDPVASSVYIGIMVTLSAIGPAIGY	240
+                                              ************************************************************
+
+B3S2R8_76.8_75.6_84.3_32.2_85.3_32.2          LLGGLLLNLWVDWPDPSDGVAPDDPRWVGAWWLGFLACGTGMLIISIPLYGYPPYLPNYA	264
+A0A369S504_77.1_75.0_82.6_30.8_80.7_25.8      LLGGLLLNLWVDWPDPSDGVAPDDPRWVGAWWLGFLACGTGMLIISIPLYGYPPYLPNYA	300
+A0A369RVP0_-1___-1___-1___-1___72.7_31.1      LLGGLL------------------------------------------------------	246
+                                              ******                                                      
+
+B3S2R8_76.8_75.6_84.3_32.2_85.3_32.2          VFKAKRLAMAKGKSKVDKEYGTSIKDLPLATKELFMNLPCTFSILAATCEATTATGFAVF	324
+A0A369S504_77.1_75.0_82.6_30.8_80.7_25.8      VFKAKRLAMAKGKSKVDKEYGTSIKDLPLATKELFMNLPCTFSILAATCEATTATGFAVF	360
+A0A369RVP0_-1___-1___-1___-1___72.7_31.1      ------------------------------------------------------------	246
+                                                                                                          
+
+B3S2R8_76.8_75.6_84.3_32.2_85.3_32.2          LPKFIQSQFGLTSSTASLIAGSIVVPGAGGGMLAGGFIMRYYKLDGLAAAKLNVIFSGLA	384
+A0A369S504_77.1_75.0_82.6_30.8_80.7_25.8      LPKFIQSQFGLTSSTASLIAGSIVVPGAGGGMLAGGFIMRYYKLDGLAAAKLNVIFSGLA	420
+A0A369RVP0_-1___-1___-1___-1___72.7_31.1      ------------------------------------------------------------	246
+                                                                                                          
+
+B3S2R8_76.8_75.6_84.3_32.2_85.3_32.2          TISVLCFALSCGNVPFSTVGLDRS------------ENSATVCNYQCKCYDSFEPLCGSD	432
+A0A369S504_77.1_75.0_82.6_30.8_80.7_25.8      TISVLCFALSCGNVPFSTVGLDRSVVAGSLETQFLQENSATVCNYQCKCYDSFEPLCGSD	480
+A0A369RVP0_-1___-1___-1___-1___72.7_31.1      ------------------------------------------------------------	246
+                                                                                                          
+
+B3S2R8_76.8_75.6_84.3_32.2_85.3_32.2          KITYYSPCFAGCTEINRNQTFSNCSCMATVSNISSLSKFNTSQHGNSGICPLECNNMIPF	492
+A0A369S504_77.1_75.0_82.6_30.8_80.7_25.8      KITYYSPCFAGCTEINRNQTFSNCSCMATVSNISSLSKFNTSQHGNSGICPLECNNMIPF	540
+A0A369RVP0_-1___-1___-1___-1___72.7_31.1      ------------------------------------------------------------	246
+                                                                                                          
+
+B3S2R8_76.8_75.6_84.3_32.2_85.3_32.2          LATLFVLMIFTFLKTVPTQQVLLRCVPESQRSFSLGVQWLFLRLLGNVPGPIIMGSIIDR	552
+A0A369S504_77.1_75.0_82.6_30.8_80.7_25.8      LATLFVLMIFTFLKTVPTQQVLLRCVPESQRSFSLGVQWLFLRLLGNVPGPIIMGSIIDR	600
+A0A369RVP0_-1___-1___-1___-1___72.7_31.1      ------------------------------------------------------------	246
+                                                                                                          
+
+B3S2R8_76.8_75.6_84.3_32.2_85.3_32.2          SCILWSVTCNQRNNCWLYNNQQMSRLILILGITFKISTTIFYLIAWHYYK----------	602
+A0A369S504_77.1_75.0_82.6_30.8_80.7_25.8      SCILWSVTCNQRNNCWLYNNQQMSRLILILGITFKISTTIFYLIAWHYYKADIQEDQCPP	660
+A0A369RVP0_-1___-1___-1___-1___72.7_31.1      ------------------------------------------------------------	246
+                                                                                                          
+
+B3S2R8_76.8_75.6_84.3_32.2_85.3_32.2          ------	602
+A0A369S504_77.1_75.0_82.6_30.8_80.7_25.8      KKETTV	666
+A0A369RVP0_-1___-1___-1___-1___72.7_31.1      ------	246
+                                                    

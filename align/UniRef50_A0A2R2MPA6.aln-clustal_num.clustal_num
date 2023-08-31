@@ -1,0 +1,54 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+A0A2R2MPA6_84.8_83.4_79.3_26.3_73.5_20.7      MAEPRTLLSTALPPTVQIDSPPPGPPNTLELSAIGKNDNMEQDGIFTISGQLHTVATTPS	60
+R7UW06_77.1_81.8_81.4_24.7_80.9_24.7          ------------------------------------------------------------	0
+                                                                                                          
+
+A0A2R2MPA6_84.8_83.4_79.3_26.3_73.5_20.7      DLNETVMTNDSQSEFVTTTDIHERQREQLREAGFDPDEFEEGRDCGYGKCRPDCMQTCAN	120
+R7UW06_77.1_81.8_81.4_24.7_80.9_24.7          -----MIKGDAP-PQ----RPNEDVDARLQQAG---IRLSHDDECGFGRCRPKCLQACAN	47
+                                                   ::..*:          :*    :*::**    .:... :**:*:***.*:*:***
+
+A0A2R2MPA6_84.8_83.4_79.3_26.3_73.5_20.7      IKMFIFVMCILSLFSGSISAGYFNSVITTVEKRFEIGSSLSGVIAASFEFGSLVAVIFVS	180
+R7UW06_77.1_81.8_81.4_24.7_80.9_24.7          IQMFIFICCLLSSTSSALTAGYLSSVITTIEKRFDIGSFISGLIAASVEVGCIVSVLFVS	107
+                                              *:****: *:**  *.:::***:.*****:****:*** :**:****.*.*.:*:*:***
+
+A0A2R2MPA6_84.8_83.4_79.3_26.3_73.5_20.7      YFGARRHIPRLVGIGGLLISLGAFMFTLPHFLAESYTIKGGFINSTEHDNICKIPTSTSL	240
+R7UW06_77.1_81.8_81.4_24.7_80.9_24.7          YFGGKGHIPTWLGIGAAFQGLGALIFALPHVTAQRYSVSGNV-NSTHEENMCGSNPSPVV	166
+                                              ***.: ***  :***. : .***::*:***. *: *::.*.. ***..:*:*    *  :
+
+A0A2R2MPA6_84.8_83.4_79.3_26.3_73.5_20.7      SQPGSTATLGSAAMMNCVDSESGNGIYVFILILAQVLVGVGGTPIYTLGTTYIDNHVPKD	300
+R7UW06_77.1_81.8_81.4_24.7_80.9_24.7          A-------EEVADGSECQSLESGSISYVFILMLAQLLIGSGGSPIFTLGTTYIDNHVTKC	219
+                                              :          *   :* . ***.  *****:***:*:* **:**:*********** * 
+
+A0A2R2MPA6_84.8_83.4_79.3_26.3_73.5_20.7      KAPSLIAFIYATSALGPVVGFGLGALLLQYYVDAFSYDYRTLNLTTEDPRWVGAWWGGFL	360
+R7UW06_77.1_81.8_81.4_24.7_80.9_24.7          KAPSYIAFIYATGALGPVLGFALGALMLQFYVDFFTIDTESLNLTPDDPRWVGAWWGGFV	279
+                                              **** *******.*****:**.****:**:*** *: * .:**** :************:
+
+A0A2R2MPA6_84.8_83.4_79.3_26.3_73.5_20.7      LFGSVLILIAIPFFGFPKTLHADLEAKILKDKGKT-----------ESEVGEPKDDEYGK	409
+R7UW06_77.1_81.8_81.4_24.7_80.9_24.7          ICGGMLLLVAMPFFGFPRMLSRETRRLIQEDEAYLQRLLDMGVVKDKEREMDSNSAGYGK	339
+                                              : *.:*:*:*:******: *  : .  * :*:.             :..  : :.  ***
+
+A0A2R2MPA6_84.8_83.4_79.3_26.3_73.5_20.7      TIKDIPRAVCSLLRNAIYLLTCFGVCCELAIVSGFLTFLAKYIEHQFSINKSQANLFTGG	469
+R7UW06_77.1_81.8_81.4_24.7_80.9_24.7          DIKELPRAFQRLLKNPIFLITCLGICCEVCIVSGFVVFLPKYLETQFTLSKSVANLLTGG	399
+                                               **::***.  **:* *:*:**:*:***:.*****:.** **:* **::.** ***:***
+
+A0A2R2MPA6_84.8_83.4_79.3_26.3_73.5_20.7      IAIPGAVLGVLLGGFLMRKLQLKPKGAIQMTLILNGLAIGVMVLLLFTGCENRKIAGATM	529
+R7UW06_77.1_81.8_81.4_24.7_80.9_24.7          IAVPGAVLGILLGGYLVRRFQLTRKGAAQLTLALNVVALTGYGLFFILGCGNLEMAGASV	459
+                                              **:******:****:*:*::**. *** *:** ** :*:    *::: ** * ::***::
+
+A0A2R2MPA6_84.8_83.4_79.3_26.3_73.5_20.7      PYSAGLDDSLEFEANLTSSCNDACSCSTRAIDLICGANDITYFSPCHAGCTHFYANNNDV	589
+R7UW06_77.1_81.8_81.4_24.7_80.9_24.7          PYPNSTLSPT--GIELSSQCNDACHCASNFVEPVCGSDGVTYFSPCHAGCSQKMQ-----	512
+                                              **  .  .      :*:*.***** *::. :: :**::.:**********::        
+
+A0A2R2MPA6_84.8_83.4_79.3_26.3_73.5_20.7      VKDDSDRVLSNIKNYTDCSCIVTNSSTDIIVSQLARSGPCPHECKNFVYFMILLFGATFL	649
+R7UW06_77.1_81.8_81.4_24.7_80.9_24.7          ------AMAYKWQNYTDCSCIDRSNGG----AAMATNGPCPRDCQTLVPFMMMVFLMTFV	562
+                                                     :  : :********  ...     : :* .****::*:.:* **:::*  **:
+
+A0A2R2MPA6_84.8_83.4_79.3_26.3_73.5_20.7      TAGTQMPLLMVTMRSVAEEERSFALGMQFVIMRLLAYIPSPIMFGNLIDTTCLVWQKHCE	709
+R7UW06_77.1_81.8_81.4_24.7_80.9_24.7          VSCTQMPLLMITLRSVAEEERAFALGLQFVILRLLAYIPSPILFGSVIDSSCTVWKTKCG	622
+                                              .: *******:*:********:****:****:**********:**.:**::* **:.:* 
+
+A0A2R2MPA6_84.8_83.4_79.3_26.3_73.5_20.7      A-NGSCLVYNIEQFRFKYLGEFLQVE---------------	734
+R7UW06_77.1_81.8_81.4_24.7_80.9_24.7          GLRGSCLLYDLVMFRHKFVGVAAALKLAAAGFFVCVWFLLR	663
+                                              . .****:*::  **.*::*    ::               

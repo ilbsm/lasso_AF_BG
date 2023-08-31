@@ -1,0 +1,52 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+A0A212EM38_-1___-1___-1___-1___60.7_34.6      MEWTPLVKAQDRVKSWINPTGFDVQKLRGLLMGNILSSTVGEVCAYRLLLQDIRGGELPS	60
+A0A212FCJ4_75.6_79.8_82.9_44.2_82.0_28.4      ---------QDRVKSWINPTGFDVQKLRGLLMGNILSSTVGEVCAYRLLLQDIRGGELPS	51
+A0A7I0ZMN2_77.5_79.2_82.4_41.4_81.4_28.6      MEWTPLVKAQDRVKSWINPTGFDVQKLRGLLMGNILSSTVGEVCAYRLLLQDIRGGELPS	60
+                                                       ***************************************************
+
+A0A212EM38_-1___-1___-1___-1___60.7_34.6      YVPDILIVSMSALEAIVTPFVSWWGFKNRRLLMISYTLMVMLTTTSLYFLPSAAVREES-	119
+A0A212FCJ4_75.6_79.8_82.9_44.2_82.0_28.4      YVPDILIVSMSALEAIVTPFVSWWGFKNRRLLMISYTLMVMLTTTSLYFLPSAAVREESE	111
+A0A7I0ZMN2_77.5_79.2_82.4_41.4_81.4_28.6      YVPDILIVSMSALEAIVTPFVSWWGFKNRRLLMISYTLMVMLTTTSLYFLPSAAVREESE	120
+                                              *********************************************************** 
+
+A0A212EM38_-1___-1___-1___-1___60.7_34.6      ------------------------------------------------------------	119
+A0A212FCJ4_75.6_79.8_82.9_44.2_82.0_28.4      FCDAANLNNDLSYLGVSARSIIRLIFIIFSIVAFQLTRVVTWTHGIGYSDEYAPERTSVH	171
+A0A7I0ZMN2_77.5_79.2_82.4_41.4_81.4_28.6      FCDAANLNNDLSYLGVSARSIIRLIFIIFSIVAFQLTRVVTWTHGIGYSDEYAPERTSVH	180
+                                                                                                          
+
+A0A212EM38_-1___-1___-1___-1___60.7_34.6      ------------------------------------------------------------	119
+A0A212FCJ4_75.6_79.8_82.9_44.2_82.0_28.4      YGALLLVRVLILVIGNRLVAELLENLQPVQISLVLFGYVLNFFKFFCVLPKHAPEVDGVQ	231
+A0A7I0ZMN2_77.5_79.2_82.4_41.4_81.4_28.6      YGALLLVRVLILVIGNRLVAELLENLQPVQISLVLFGYVLNFFKFFCVLPKHAPEVDGVQ	240
+                                                                                                          
+
+A0A212EM38_-1___-1___-1___-1___60.7_34.6      ------------------------------------------------------------	119
+A0A212FCJ4_75.6_79.8_82.9_44.2_82.0_28.4      KTQLPVIGRSFPLSMARVLSLSLVLKQSMAAGLLAAALWGIGYSQVQIAKVKFLLAPSAK	291
+A0A7I0ZMN2_77.5_79.2_82.4_41.4_81.4_28.6      KTQLPVIGRSFPLSMARVLSLSLVLKQSMAAGLLAAALWGIGYSQVQIAKVKFLLAPSAK	300
+                                                                                                          
+
+A0A212EM38_-1___-1___-1___-1___60.7_34.6      ------------------------------------------------------------	119
+A0A212FCJ4_75.6_79.8_82.9_44.2_82.0_28.4      LGLAEILLMMFIIFPVALAGVKFSVPVLKEYCKKKALKQIVIMTTFTFVFLVLLITLPKC	351
+A0A7I0ZMN2_77.5_79.2_82.4_41.4_81.4_28.6      LGLAEILLMMFIIFPVALAGVKFSVPVLKEYCKKKALKQIVIMTTFTFVFLVLLITLPKC	360
+                                                                                                          
+
+A0A212EM38_-1___-1___-1___-1___60.7_34.6      ------------------------------------------------------------	119
+A0A212FCJ4_75.6_79.8_82.9_44.2_82.0_28.4      DRGRVSGLGDYYYDHPQCSFSCGCKPTWSEFNPVCVTNNMTTYLSPCHAGCSSSETINGV	411
+A0A7I0ZMN2_77.5_79.2_82.4_41.4_81.4_28.6      DRGRVSGLGDYYYDHPQCSFSCGCKPTWSEFNPVCVTNNMTTYLSPCHAGCSSSETINGV	420
+                                                                                                          
+
+A0A212EM38_-1___-1___-1___-1___60.7_34.6      ------------------------------------------------------------	119
+A0A212FCJ4_75.6_79.8_82.9_44.2_82.0_28.4      LVYTNCSCAGGGPALLGACSVTNCDNQFLLHLILFVVVVTFSLLAFQAQGVLILKTVDPR	471
+A0A7I0ZMN2_77.5_79.2_82.4_41.4_81.4_28.6      LVYTNCSCAGGGPALLGACSVTNCDNQFLLHLILFVVVVTFSLLAFQAQGVLILKTVDPR	480
+                                                                                                          
+
+A0A212EM38_-1___-1___-1___-1___60.7_34.6      ------------------------------------------------------------	119
+A0A212FCJ4_75.6_79.8_82.9_44.2_82.0_28.4      DKSVATGLFLSVVVMISFVCGHLLFMSIRVATCSWYEGGECHLQSDLFPTVVGFTSCFFA	531
+A0A7I0ZMN2_77.5_79.2_82.4_41.4_81.4_28.6      DKSVATGLFLSVVVMISFVCGHLLFMSIRVATCSWYEGGECHLQSDLFPTVVGFTSCFFA	540
+                                                                                                          
+
+A0A212EM38_-1___-1___-1___-1___60.7_34.6      ---------------------------	119
+A0A212FCJ4_75.6_79.8_82.9_44.2_82.0_28.4      LLSALISVVSLVLWKVYDNNDEGSTNL	558
+A0A7I0ZMN2_77.5_79.2_82.4_41.4_81.4_28.6      LLSALISVVSLVLWKVYDNNDEGSTNL	567
+                                                                         

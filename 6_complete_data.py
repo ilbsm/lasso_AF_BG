@@ -52,7 +52,6 @@ def find_lasso_edges():
             uniid2edges[uniprot_id] = min(ndxes), max(ndxes)
     return uniid2edges
 
-
 def prepare():
     clusters = set([])
     with open('lassos_clusters_most_interesting.txt', 'r') as f:
@@ -70,7 +69,7 @@ if __name__ == '__main__':
     for cluster in tqdm(clusters, total = len(clusters)):
         with open('clusters/{}.txt'.format(cluster), 'r') as f:
             with open('clusters2/{}.txt'.format(cluster), 'w') as g:
-                with open('fasta/{}.txt'.format(cluster), 'w') as gg:
+                with open('fasta_clusters/{}.txt'.format(cluster), 'w') as gg:
                     to_write = []
                     to_write_no_struct = []
                     to_write_else = []
@@ -89,7 +88,10 @@ if __name__ == '__main__':
                             plddts = get_plddt(ndx2plddt, bridge, lasso, edges)
                             plddts = [str(round(x,1)) for x in plddts]
                             plddts_str = '{:4} {:4} {:4} {:4} {:4} {:4}'.format(*plddts)
-                            gg.write('>{}\n'.format(uniprot_id))
+                            with open('fasta/{}.txt'.format(uniprot_id), 'w') as ggg:
+                                ggg.write('>{}_{}\n'.format(uniprot_id, plddts_str.replace(' ','_')))
+                                ggg.write(fasta + '\n')
+                            gg.write('>{}_{}\n'.format(uniprot_id, plddts_str.replace(' ','_')))
                             gg.write(fasta + '\n')
                         edges = '-'.join([str(x) for x in edges])
                         record = [uniprot_id, lasso, bridge, edges, plddts_str]

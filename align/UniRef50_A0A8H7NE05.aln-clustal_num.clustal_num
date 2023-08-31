@@ -1,0 +1,46 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+A0A0B7KJF1_87.8_93.9_94.0_47.5_93.5_33.6      ------------------------------------------------------------	0
+F0X9X5_73.6_90.5_91.7_26.2_84.9_24.6          MAELKLPLTSTNVRMREPSRRTSWRLKTALFAGVVLLSNSYHTATTGSSFFRRLVSCHHP	60
+                                                                                                          
+
+A0A0B7KJF1_87.8_93.9_94.0_47.5_93.5_33.6      --MDISLSRCPAQNKVSPVARPDITEKNVNQLFKSDSFRDLSVQRLSGAIQVPTETFENL	58
+F0X9X5_73.6_90.5_91.7_26.2_84.9_24.6          AAVTPSLPQCPAQRAIGPSARPDITENNVQKLFRSAEFRNLSVSRLAGAVQIPTQDFQDM	120
+                                                :  ** :****. :.* *******:**::**:* .**:***.**:**:*:**: *:::
+
+A0A0B7KJF1_87.8_93.9_94.0_47.5_93.5_33.6      GRLGEDKRWDVFYNFEKYLKKTFPLLHEKLHLELVNEHGLLYTWQGSDEQLKPILLMAHQ	118
+F0X9X5_73.6_90.5_91.7_26.2_84.9_24.6          GRMGEDARWDAFYDLQKYFEETFSLLHEKLQFEVVNEHGLLYTWRGSNKTLKPVLLMSHQ	180
+                                              **:*** ***.**:::**:::** ******::*:**********:**:: ***:***:**
+
+A0A0B7KJF1_87.8_93.9_94.0_47.5_93.5_33.6      DTVPVAADTLSEWKYPPYSGHFDGQFIYGRGSQDCKNNLIAILSSITSLLDQDFVPRRTV	178
+F0X9X5_73.6_90.5_91.7_26.2_84.9_24.6          DTVPVAADTFAEWRYPPFSGHFDGTYINGRGSHDCKNNVVAILSALTALLEQGFEPERTV	240
+                                              *********::**:***:****** :* ****:*****::****::*:**:*.* *.***
+
+A0A0B7KJF1_87.8_93.9_94.0_47.5_93.5_33.6      VLSFGFDEETSGFQYGAARLSKRITDIWG-----PDSFAIVVDEGQTLIVDRFGRSFGIP	233
+F0X9X5_73.6_90.5_91.7_26.2_84.9_24.6          VAAFGFDEEATKYRYGAARLAEHLRGIYGDGPEGEDAFAIIVDEGGLGVNRQFGRTFATP	300
+                                              * :******:: ::******:::: .*:*      *:***:****   :  :***:*. *
+
+A0A0B7KJF1_87.8_93.9_94.0_47.5_93.5_33.6      QVSERGYFDLEVTVHIPGGHSSIPPAHTSIGILAQAVTTLENAAEANFPLELRTDNPFYT	293
+F0X9X5_73.6_90.5_91.7_26.2_84.9_24.6          ETGEKGYLDIVLDVHVPGGHSSIPPAHTAIGILAAAVTRLEAEAEDNFPSRLAAENPFYS	360
+                                              :..*:**:*: : **:************:***** *** **  ** *** .* ::****:
+
+A0A0B7KJF1_87.8_93.9_94.0_47.5_93.5_33.6      LLQCAAEDPST-EMPNELRDAIGDPQ--GTSKIVKLLSHDPIIKSLFHTTQAVTIFQGGN	350
+F0X9X5_73.6_90.5_91.7_26.2_84.9_24.6          LLRCAAEDEATVDMDPALRAALRDPSDEGLARTIILLSDDVEAASLLHTSQAVTIFQAGN	420
+                                              **:***** :* :*   ** *: **.  * :: : ***.*    **:**:*******.**
+
+A0A0B7KJF1_87.8_93.9_94.0_47.5_93.5_33.6      KANALPAFANGLINYRVSSTETVAQVREKLINTLKPVADKFGLKFTAGPKPGVGEP---P	407
+F0X9X5_73.6_90.5_91.7_26.2_84.9_24.6          KANALPAYASALINYRVAGEEQLDQVIVKLIRTVRPVAEAMGVRLVYGPEKGIDGGDADD	480
+                                              *******:*..******:. * : **  ***.*::***: :*:::. **: *:.      
+
+A0A0B7KJF1_87.8_93.9_94.0_47.5_93.5_33.6      AEVPEYTLALSWNNAALESSPVTSTDSPTWSTLTGVIKHVFDESVDGGDVTVAPMQIIGN	467
+F0X9X5_73.6_90.5_91.7_26.2_84.9_24.6          DDLPQFTLRLSWKTALREPSPISQTTSSSWTYLAGVIKHVFDEPGFGNNVLVSPMYAGGN	540
+                                               ::*::** ***:.*  * **::.* * :*: *:*********   *.:* *:**   **
+
+A0A0B7KJF1_87.8_93.9_94.0_47.5_93.5_33.6      TDTRYYWDLSPQIYRFGPGRDRHNDGPGGIHDVNEHVPIEVHLEAILFFHEFIRVFDEAD	527
+F0X9X5_73.6_90.5_91.7_26.2_84.9_24.6          TDTLFFWDLSSQIYRFGPVRAWHDEGWGGVHDVNERIALDAHMEAILFYHEFIRVFDEAE	600
+                                              *** ::**** ******* *  *::* **:*****:: ::.*:*****:**********:
+
+A0A0B7KJF1_87.8_93.9_94.0_47.5_93.5_33.6      LE	529
+F0X9X5_73.6_90.5_91.7_26.2_84.9_24.6          L-	601
+                                              * 

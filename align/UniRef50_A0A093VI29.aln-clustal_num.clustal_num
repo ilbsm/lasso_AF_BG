@@ -1,0 +1,92 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+B6QST3_76.2_92.9_95.0_63.4_89.5_22.6          ------------------------------------------------------------	0
+A0A7C8KVH1_77.6_93.6_95.4_76.3_89.7_20.1      ------------------------------------------------------------	0
+A0A093VI29_75.8_91.4_93.7_74.3_86.7_20.9      MKDKDSFKKLRFTGKSCCHIERYLIAKHSLGFYNNVAVSVFYTNRSPLDVQHLQSFIYRA	60
+                                                                                                          
+
+B6QST3_76.2_92.9_95.0_63.4_89.5_22.6          ------------------------------------------------------------	0
+A0A7C8KVH1_77.6_93.6_95.4_76.3_89.7_20.1      ------------------------------------------------------------	0
+A0A093VI29_75.8_91.4_93.7_74.3_86.7_20.9      LKEVIADHPALGVNIKDDDKSRPYYVQLPTIDLSKTVTFIPSVAIPNPLDPEGVKNLDLL	120
+                                                                                                          
+
+B6QST3_76.2_92.9_95.0_63.4_89.5_22.6          ------------------------------------------------------------	0
+A0A7C8KVH1_77.6_93.6_95.4_76.3_89.7_20.1      ------------------------------------------------------------	0
+A0A093VI29_75.8_91.4_93.7_74.3_86.7_20.9      LEEQHNRNFKDQASQDPLWRLLIVHEPVESSRFVACFVYHHGICDGTSGLVFHQHLHRKL	180
+                                                                                                          
+
+B6QST3_76.2_92.9_95.0_63.4_89.5_22.6          ------------------------------------------------------------	0
+A0A7C8KVH1_77.6_93.6_95.4_76.3_89.7_20.1      ------------------------------------------------------------	0
+A0A093VI29_75.8_91.4_93.7_74.3_86.7_20.9      NQIPISDTDQEADAIVATSSKAFLPALEDLHPLPLSTRFLLKAILKEHLVSEKSKRHIWT	240
+                                                                                                          
+
+B6QST3_76.2_92.9_95.0_63.4_89.5_22.6          ------------------------------------------------------------	0
+A0A7C8KVH1_77.6_93.6_95.4_76.3_89.7_20.1      ------------------------------------------------------------	0
+A0A093VI29_75.8_91.4_93.7_74.3_86.7_20.9      AAPITSDPSKRRCRYRSVRFSQETTSQLLAACRAQSTSLTAAVQTIFASSLFVHLPSSQF	300
+                                                                                                          
+
+B6QST3_76.2_92.9_95.0_63.4_89.5_22.6          ------------------------------------------------------------	0
+A0A7C8KVH1_77.6_93.6_95.4_76.3_89.7_20.1      ------------------------------------------------------------	0
+A0A093VI29_75.8_91.4_93.7_74.3_86.7_20.9      SSLYCDGAMSFTRWLPVDLVDKDSIGTWVSQYNFEHRFVSMDSSSQSDAIKLFSWEEARK	360
+                                                                                                          
+
+B6QST3_76.2_92.9_95.0_63.4_89.5_22.6          ------------------------------------------------------------	0
+A0A7C8KVH1_77.6_93.6_95.4_76.3_89.7_20.1      ------------------------------------------------------------	0
+A0A093VI29_75.8_91.4_93.7_74.3_86.7_20.9      VKATIQKEIDNEGKNSAVSLLKFAGNMHKFSKQKIGKPRAASFEISNIGIFGHKHQEDGE	420
+                                                                                                          
+
+B6QST3_76.2_92.9_95.0_63.4_89.5_22.6          ------------------------------------------------------------	0
+A0A7C8KVH1_77.6_93.6_95.4_76.3_89.7_20.1      ------------------------------------------------------------	0
+A0A093VI29_75.8_91.4_93.7_74.3_86.7_20.9      ESSWTVGRVVFSQSVDVVGAAIEVSLVTGNDGSLNIGFSWLDGIVEGSIIEQAMGTFERT	480
+                                                                                                          
+
+B6QST3_76.2_92.9_95.0_63.4_89.5_22.6          ---MRVPAILTPILATGAVSRSVSYLGQTPIGDYRPISNGNTHIDAPGDDVCLLPPKVAP	57
+A0A7C8KVH1_77.6_93.6_95.4_76.3_89.7_20.1      ---MRVPAILTPILATGAVSRSVSYLGQTPIGDYRPISNGNTHIDAPGDDVCLLPPKVAP	57
+A0A093VI29_75.8_91.4_93.7_74.3_86.7_20.9      LLPMRVPAILTPILATGAVSRSVSYLGQTPIGDYRPISNGNTHIDAPGDDVCLLPPKVAP	540
+                                                 *********************************************************
+
+B6QST3_76.2_92.9_95.0_63.4_89.5_22.6          PKDGLHPSLDFIQDSSYLSQQVERLSRVVQVPSTSTELEDDPWSDYYAPFLDLHDELAKL	117
+A0A7C8KVH1_77.6_93.6_95.4_76.3_89.7_20.1      PKDGLHPSLDFIQDSSYLSQQVERLSRVVQVPSTSTELEDDPWSDYYAPFLDLHDELAKL	117
+A0A093VI29_75.8_91.4_93.7_74.3_86.7_20.9      PKDGLHPSLDFIQDSSYLSQQVERLSRVVQVPSTSTELEDDPWSDYYAPFLDLHDELAKL	600
+                                              ************************************************************
+
+B6QST3_76.2_92.9_95.0_63.4_89.5_22.6          FPLVHSYGKVEKVNRFGLAYTFNGTNSALKPMLFMAHQDVVPIDDPNDWTYPPFSGHYDG	177
+A0A7C8KVH1_77.6_93.6_95.4_76.3_89.7_20.1      FPLVHSYGKVEKVNRFGLAYTFNGTNSALKPMLFMAHQDVVPIDDPNDWTYPPFSGHYDG	177
+A0A093VI29_75.8_91.4_93.7_74.3_86.7_20.9      FPLVHSYGKVEKVNRFGLAYTFNGTNSALKPMLFMAHQDVVPIDDPNDWTYPPFSGHYDG	660
+                                              ************************************************************
+
+B6QST3_76.2_92.9_95.0_63.4_89.5_22.6          QWLWGRGSSDCKNSLIGVLSAVEDLLKQGWTPTRTLVLSFGYDEESKGWKGAGCLSEHLE	237
+A0A7C8KVH1_77.6_93.6_95.4_76.3_89.7_20.1      QWLWGRGSSDCKNSLIGVLSAVEDLLKQGWTPTRTLVLSFGYDEESKGWKGAGCLSEHLE	237
+A0A093VI29_75.8_91.4_93.7_74.3_86.7_20.9      QWLWGRGSSDCKNSLIGVLSAVEDLLKQGWTPTRTLVLSFGYDEESKGWKGAGCLSEHLE	720
+                                              ************************************************************
+
+B6QST3_76.2_92.9_95.0_63.4_89.5_22.6          KRYGKDSFEFIIDEGGVGINTIGDKIYAMAGVGEKGAVDIHISLSIDGGHSSIPPPHTGI	297
+A0A7C8KVH1_77.6_93.6_95.4_76.3_89.7_20.1      KRYGKDSFEFIIDEGGVGINTIGDKIYAMAGVGEKGAVDIHISLSIDGGHSSIPPPHTGI	297
+A0A093VI29_75.8_91.4_93.7_74.3_86.7_20.9      KRYGKDSFEFIIDEGGVGINTIGDKIYAMAGVGEKGAVDIHISLSIDGGHSSIPPPHTGI	780
+                                              ************************************************************
+
+B6QST3_76.2_92.9_95.0_63.4_89.5_22.6          GIISEIIYHLEREQLFTPRLDLSHPSRQGLTCQAKHSVDFVEPWLWSALESSDYTGLAEA	357
+A0A7C8KVH1_77.6_93.6_95.4_76.3_89.7_20.1      GIISEIIYHLEREQLFTPRLDLSHPSRQGLTCQAKHSVDFVEPWLWSALESSDYTGLAEA	357
+A0A093VI29_75.8_91.4_93.7_74.3_86.7_20.9      GIISEIIYHLEREQLFTPRLDLSHPSRQGLTCQAKHSVDFVEPWLWSALESSDYTGLAEA	840
+                                              ************************************************************
+
+B6QST3_76.2_92.9_95.0_63.4_89.5_22.6          LAASRGDRVRFLYQTSQAADLIHGGVKINALPEKISATVNYRVAIHENTDMVRARAINII	417
+A0A7C8KVH1_77.6_93.6_95.4_76.3_89.7_20.1      LAASRGDRVRFLYQTSQAADLIHGGVKINALPEKISATVNYRVAIHENTDMVRARAINII	417
+A0A093VI29_75.8_91.4_93.7_74.3_86.7_20.9      LAASRGDRVRFLYQTSQAADLIHGGVKINALPEKISATVNYRVAIHENTDMVRARAINII	900
+                                              ************************************************************
+
+B6QST3_76.2_92.9_95.0_63.4_89.5_22.6          TPIAKAHNLTFSAFGSGDKPQANNHLDISDYDLPLEPAPISPTSPSDAIWTRMSGVTRQF	477
+A0A7C8KVH1_77.6_93.6_95.4_76.3_89.7_20.1      TPIAKAHNLTFSAFGSGDKPQANNHLDISDYDLPLEPAPISPTSPSDAIWTRMSGVTRQF	477
+A0A093VI29_75.8_91.4_93.7_74.3_86.7_20.9      TPIAKAHNLTFSAFGSGDKPQANNHLDISDYDLPLEPAPISPTSPSDAIWTRMSGVTRQF	960
+                                              ************************************************************
+
+B6QST3_76.2_92.9_95.0_63.4_89.5_22.6          FESLPASNNRTVLVVGDVMTGNTDTRFYWNLTRNIWRFSPIRPDGAKNIHTVDEGIDMAV	537
+A0A7C8KVH1_77.6_93.6_95.4_76.3_89.7_20.1      FESLPASNNRTVLVVGDVMTGNTDTRFYWNLTRNIWRFSPIRPDGAKNIHTVDEGIDMAV	537
+A0A093VI29_75.8_91.4_93.7_74.3_86.7_20.9      FESLPASNNRTVLVVGDVMTGNTDTRFYWNLTRNIWRFSPIRPDGAKNIHTVDEGIDMAV	1020
+                                              ************************************************************
+
+B6QST3_76.2_92.9_95.0_63.4_89.5_22.6          HLEGLAFYYELIRAFDTYED	557
+A0A7C8KVH1_77.6_93.6_95.4_76.3_89.7_20.1      HLEGLAFYYELIRAFDTYED	557
+A0A093VI29_75.8_91.4_93.7_74.3_86.7_20.9      HLEGLAFYYELIRAFDTYED	1040
+                                              ********************

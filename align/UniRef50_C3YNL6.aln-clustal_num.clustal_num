@@ -1,0 +1,54 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+A0A6P4Z0U5_71.2_78.3_80.4_29.9_73.9_22.6      MAAFGRKTKNTKALTLDSVAFDRANIPGRYSRQDSALDTPGARSDAPFLQNFIRQDSRAG	60
+C3YNL6_72.2_77.6_81.7_25.6_82.7_25.6          ------------------------------------------------------------	0
+                                                                                                          
+
+A0A6P4Z0U5_71.2_78.3_80.4_29.9_73.9_22.6      DFSDEEGDQAETRCGWRRFRPSCLQVFDNPKGFLFFVSFFALVQGTLVNGLINSVISTIE	120
+C3YNL6_72.2_77.6_81.7_25.6_82.7_25.6          ---------------------------------LFFVSLFALVQGTLVNGLINSVISTIE	27
+                                                                               *****:*********************
+
+A0A6P4Z0U5_71.2_78.3_80.4_29.9_73.9_22.6      KRFQLPSSKTGIISSGYDIAFGCLSVIITYHGGVRSKPIWLATGAFVLGLGACVFSIPHF	180
+C3YNL6_72.2_77.6_81.7_25.6_82.7_25.6          KRFQLPSSKTGIISSGYDIAFGCLSVIITYHGGVRSKPVWLAIGVFVMGLGAFVFSIPHF	87
+                                              **************************************:*** *.**:**** *******
+
+A0A6P4Z0U5_71.2_78.3_80.4_29.9_73.9_22.6      VVGPHRLGGAQETTCGAARLNET-------SDDGVCSGEGGESNWLPNFLYVFILGQLLN	233
+C3YNL6_72.2_77.6_81.7_25.6_82.7_25.6          VVGPHELGGTRETTCGAARFNETGAAKFNETGDGLCSEEGGASSWLPNFLYVFILGQLLN	147
+                                              *****.***::********:***       :.**:** *** *.****************
+
+A0A6P4Z0U5_71.2_78.3_80.4_29.9_73.9_22.6      GVGGIPLYTFGPQYLEQSVSTKSSGIYLGIFYAVSYLGPAVGFLLGGQLLTLYIDLEKPG	293
+C3YNL6_72.2_77.6_81.7_25.6_82.7_25.6          GVGGIPLYTFGPQYLEQSVSTKSSGMYLGIFYAVSYLGPAVGFLLGGQLLTLYIDMDKSG	207
+                                              *************************:*****************************::* *
+
+A0A6P4Z0U5_71.2_78.3_80.4_29.9_73.9_22.6      VIPPVGGTSDPRWLGAWWLGFLGLGVTAWLLVLPLSGYPKELPGIAKVRREKTSDVHANT	353
+C3YNL6_72.2_77.6_81.7_25.6_82.7_25.6          ITPPVGGTSDPRWLGAWWLGFLALGVVAWLLVLPLSGYPKELPGIAKVRKEKKSDVHANT	267
+                                              : ********************.***.**********************:**.*******
+
+A0A6P4Z0U5_71.2_78.3_80.4_29.9_73.9_22.6      ESKTLDSNFGKSIRDFPVAVRSLAKNPTFIFITLAGISEGLALNGFATFLPKFVENQFGQ	413
+C3YNL6_72.2_77.6_81.7_25.6_82.7_25.6          ESKTLDSNFGKSIRDFPIAVLSLAKNPTFIFITLAGISEGLVLNGFATFLPKFVENQFGQ	327
+                                              *****************:** ********************.******************
+
+A0A6P4Z0U5_71.2_78.3_80.4_29.9_73.9_22.6      TASQAAFLVGCVMVPGAFGGCLIGGAIMRCKKLDVSGSLKLCVILSSIAMLLAPVFLIRC	473
+C3YNL6_72.2_77.6_81.7_25.6_82.7_25.6          TASQAAFLVGCVMVPGAFGGCLIGGGIMRWKKLGVSGSLKLCVILSTVALLLSPVFLIRC	387
+                                              *************************.*** ***.************::*:**:*******
+
+A0A6P4Z0U5_71.2_78.3_80.4_29.9_73.9_22.6      PNSQFAGVTASYTTGATSQASGPGSSLNASCNAACACPAVFDVVCGSDGLEYLSSCHAGC	533
+C3YNL6_72.2_77.6_81.7_25.6_82.7_25.6          PNSQFAGVTTSYPSGATSQTLGSGSSLNATCNSNCACPAVFDVVCGTDGVEYLSSCHAGC	447
+                                              *********:** :*****: * ******:**: ************:**:**********
+
+A0A6P4Z0U5_71.2_78.3_80.4_29.9_73.9_22.6      TTRHEGEPKTFSNCACVTTNSSASNTVAAVSPGYTPPDPEVTSGRCGSTCGLLMVFLPLL	593
+C3YNL6_72.2_77.6_81.7_25.6_82.7_25.6          TTHHEGEPKTFSDCACVTSNSSTS---TAVSPGYTQ--PEVTSGRCGSTCGLLMVFLPLL	502
+                                              **:*********:*****:***:*   :*******   **********************
+
+A0A6P4Z0U5_71.2_78.3_80.4_29.9_73.9_22.6      VVIMVVVSGLTVPAAAVTLRCVPEHQASFAFGLQWMFIRLLGSVPGPILMGAAIDRTCLL	653
+C3YNL6_72.2_77.6_81.7_25.6_82.7_25.6          VVVMVVVAGLTVPAAAVTLRCVPEHQASFAFGLQWMFIRLLGSVPGPILMGAAIDRTCLL	562
+                                              **:****:****************************************************
+
+A0A6P4Z0U5_71.2_78.3_80.4_29.9_73.9_22.6      WQGDVSSDDTCDVSDRGACWVYENSTMSLYFFIIVLVLKIFSTTCMGLALWLYKPSKKST	713
+C3YNL6_72.2_77.6_81.7_25.6_82.7_25.6          WQGDVTRNDTCDVSDRGACWVYENSTMSLYFFIIVVVLKFFSTTCMGFALWLYKP-----	617
+                                              *****: :***************************:***:*******:*******     
+
+A0A6P4Z0U5_71.2_78.3_80.4_29.9_73.9_22.6      QSCAMAYNGEVVTTVSTPESITSEELSHRNGEIFL	748
+C3YNL6_72.2_77.6_81.7_25.6_82.7_25.6          -----------------------------------	617
+                                                                                 
