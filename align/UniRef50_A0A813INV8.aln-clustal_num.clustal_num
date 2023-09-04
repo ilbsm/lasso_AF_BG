@@ -3,70 +3,70 @@ CLUSTAL O(1.2.4) multiple sequence alignment
 
 A0A813HNJ6_78.6_69.8_78.4_24.2_72.0_19.4      MSPRYSCASACGPVVLLLLVCLSATARSLVRSHPGSKVLLQRQLRLDLLDLGDPRRSNFE	60
 A0A813INV8_79.5_72.9_78.8_21.6_72.9_20.1      MSPRYSCASACGPVVLLLLVCLSATARSLVRSHPGSKVLLQRQLRLDLLDLGDPRRSNFE	60
-A0A813FRG5_-1___-1___-1___-1___73.8_29.4      ------------------------------------------------------------	0
+A0A813FRG5_-1_-1_-1_-1_73.8_29.4              ------------------------------------------------------------	0
                                                                                                           
 
 A0A813HNJ6_78.6_69.8_78.4_24.2_72.0_19.4      VDFKVDQEQGVGQEEQEDEEDQERSSLELLRFITPYGTFMEALVDVTPYSQLLQSSLESL	120
 A0A813INV8_79.5_72.9_78.8_21.6_72.9_20.1      VDFKVDQEQGVGQEEQEDEEDQERSSLELLRFITPYGTFMEALVDVTPYSQLLQSSLESL	120
-A0A813FRG5_-1___-1___-1___-1___73.8_29.4      ------------------------------------------------------------	0
+A0A813FRG5_-1_-1_-1_-1_73.8_29.4              ------------------------------------------------------------	0
                                                                                                           
 
 A0A813HNJ6_78.6_69.8_78.4_24.2_72.0_19.4      SDIEFYAAIDTWVTNDTSRNALYMNNLTNSCTPLRVSEGNGWNVSLEIVLWPRASSVESA	180
 A0A813INV8_79.5_72.9_78.8_21.6_72.9_20.1      SDIEFYAAIDTWVTNDTSRNALYMNNLTNSCTPLRVSEGNGWNVSLEIVLWPRASSVESA	180
-A0A813FRG5_-1___-1___-1___-1___73.8_29.4      ------------------------------------------------------------	0
+A0A813FRG5_-1_-1_-1_-1_73.8_29.4              ------------------------------------------------------------	0
                                                                                                           
 
 A0A813HNJ6_78.6_69.8_78.4_24.2_72.0_19.4      AVRPRATVVLAGGYPASVIDFGTVTIHEGILEAGPSPSKIELDGAADLSTAGFDPRVYAC	240
 A0A813INV8_79.5_72.9_78.8_21.6_72.9_20.1      AVRPRATVVLAGGYPASVIDFGTVTIHEGILEAGSSPSKIELDEAADLSTAGFDPRVYAC	240
-A0A813FRG5_-1___-1___-1___-1___73.8_29.4      ------------------------------------------------------------	0
+A0A813FRG5_-1_-1_-1_-1_73.8_29.4              ------------------------------------------------------------	0
                                                                                                           
 
 A0A813HNJ6_78.6_69.8_78.4_24.2_72.0_19.4      PDGASSLQRASLWGYLAKQGQLQAASKTSGEGASSGKKEADLEEEFVEFVADMVPAEVTA	300
 A0A813INV8_79.5_72.9_78.8_21.6_72.9_20.1      PDGASSLQRASLWGYLAKQGQLQAASKTSGEGASSGKKEADLEEEFVEFVADMVPAEVTA	300
-A0A813FRG5_-1___-1___-1___-1___73.8_29.4      ------------------------------------------------------------	0
+A0A813FRG5_-1_-1_-1_-1_73.8_29.4              ------------------------------------------------------------	0
                                                                                                           
 
 A0A813HNJ6_78.6_69.8_78.4_24.2_72.0_19.4      VHKHSGTFEVKLMGNATLEPGMPVYFGSGGTFSDQLKSPGKWWNLSLPFEPMGYVASFSG	360
 A0A813INV8_79.5_72.9_78.8_21.6_72.9_20.1      VHKHSGTFEVKLMGNATLEPGMPVYFGSGGTFSDQLKSPGKWWNLSLPFEPMGYVASFSG	360
-A0A813FRG5_-1___-1___-1___-1___73.8_29.4      ------------------------------------------------------------	0
+A0A813FRG5_-1_-1_-1_-1_73.8_29.4              ------------------------------------------------------------	0
                                                                                                           
 
 A0A813HNJ6_78.6_69.8_78.4_24.2_72.0_19.4      SNFVVNVTSHQCFAATKLNASSIPALQVPRDSKVLSTAKKQVHAAMQSGMSSHGKQKEDS	420
 A0A813INV8_79.5_72.9_78.8_21.6_72.9_20.1      SNFVVNVTSHQCFAATKLNASSIPALQVPRDSNVLSTAKKQVHAAMQSGMSSHGKQKEDS	420
-A0A813FRG5_-1___-1___-1___-1___73.8_29.4      ------------------------------------------------------------	0
+A0A813FRG5_-1_-1_-1_-1_73.8_29.4              ------------------------------------------------------------	0
                                                                                                           
 
 A0A813HNJ6_78.6_69.8_78.4_24.2_72.0_19.4      QELSFLDFVGTGNESNLTFAACESLGRVSRDGGKEFGTIALNVSVFGGDASQVSGGNASK	480
 A0A813INV8_79.5_72.9_78.8_21.6_72.9_20.1      QELSFLDFVGTGNESNLTFVACESLGRVSRDGGKEFGTIALNVSVFGGDASQVSGGNASK	480
-A0A813FRG5_-1___-1___-1___-1___73.8_29.4      ------------------------------------------------------------	0
+A0A813FRG5_-1_-1_-1_-1_73.8_29.4              ------------------------------------------------------------	0
                                                                                                           
 
 A0A813HNJ6_78.6_69.8_78.4_24.2_72.0_19.4      VCVVKQLRSGHILDRSFRASLDVGERALLHLTATGHGWSATSEQCGEYCHAVYHVSLNGQ	540
 A0A813INV8_79.5_72.9_78.8_21.6_72.9_20.1      VCVVKQLRSGHILDRSFRASLDVGERALLHLTATGHGWSATSEQCGEYCHAVYHVSLNGQ	540
-A0A813FRG5_-1___-1___-1___-1___73.8_29.4      --------------------------------------------CGEYCHAVYHVSLNGQ	16
+A0A813FRG5_-1_-1_-1_-1_73.8_29.4              --------------------------------------------CGEYCHAVYHVSLNGQ	16
                                                                                           ****************
 
 A0A813HNJ6_78.6_69.8_78.4_24.2_72.0_19.4      SAANVTQWRDDCHLNPSGPRQHGTWDESRNGWCPGSVEPGLFLDVTYFLNEPDQDNLVEI	600
 A0A813INV8_79.5_72.9_78.8_21.6_72.9_20.1      SAANVTQWREDCHLNPSGPRQHGTWDESRNGWCPGSVEPGLFLDVTYFLNEPDQDNLVEI	600
-A0A813FRG5_-1___-1___-1___-1___73.8_29.4      SAANVTQWREDCHLNPSGPRQHGTWDESRNGWCPGSVEPGLFLDVTYFLNEPDQDNLVEI	76
+A0A813FRG5_-1_-1_-1_-1_73.8_29.4              SAANVTQWREDCHLNPSGPRQHGTWDESRNGWCPGSVEPGLFLDVTYFLNEPDQDNLVEI	76
                                               *********:**************************************************
 
 A0A813HNJ6_78.6_69.8_78.4_24.2_72.0_19.4      EVAVWIDATHKYKPYSDESGFVLGDKASLAVSMSLLLYGRDAVEAALSKGTAFTAAEEAL	660
 A0A813INV8_79.5_72.9_78.8_21.6_72.9_20.1      EVAVWIDATHKYKPYSDESGFVLGDKASLAVSMSLLLYGRDAVEAALSKGTAFTAAEEAL	660
-A0A813FRG5_-1___-1___-1___-1___73.8_29.4      EVAVWIDATHKYKPYSDESGFVLGDKASLAVSMSLLLYGRDAVEAALSKGTAFTAAEEAL	136
+A0A813FRG5_-1_-1_-1_-1_73.8_29.4              EVAVWIDATHKYKPYSDESGFVLGDKASLAVSMSLLLYGRDAVEAALSKGTAFTAAEEAL	136
                                               ************************************************************
 
 A0A813HNJ6_78.6_69.8_78.4_24.2_72.0_19.4      QKGSSDKAMLSPPEVVKDLNLSNL-TQALSTTTASPSSANTGIGGEFDFRSRAPWYFYNE	719
 A0A813INV8_79.5_72.9_78.8_21.6_72.9_20.1      QKGSSDKAMLSPPEVVKDLNLSNPTTQALSTTTASPSSANTGIGGEFDFRSRAPWYFYNE	720
-A0A813FRG5_-1___-1___-1___-1___73.8_29.4      QKGSSDKAMLSPPEVVKDLNLSNPTTQALSTTTASPSSANTGIGGEFDFRSRAPWYFYNE	196
+A0A813FRG5_-1_-1_-1_-1_73.8_29.4              QKGSSDKAMLSPPEVVKDLNLSNPTTQALSTTTASPSSANTGIGGEFDFRSRAPWYFYNE	196
                                               ***********************  ***********************************
 
 A0A813HNJ6_78.6_69.8_78.4_24.2_72.0_19.4      SVEGAPGKQSGAVAVSIFKDRLMQADSRMIQVAVDRKVLEAAGAGPAGNWGQIALRLRLQ	779
 A0A813INV8_79.5_72.9_78.8_21.6_72.9_20.1      SVEGAPGKQSGAVAVSIFKDRLMQADSRMIQVAVDRKVLEAAGAGPAGNWGQIALRLRLQ	780
-A0A813FRG5_-1___-1___-1___-1___73.8_29.4      SVEGAPGKQSGAVAVSIFKDRLMQADSRMIQVAVDRKVLEAAGAGPAGNWGQIALRLRLQ	256
+A0A813FRG5_-1_-1_-1_-1_73.8_29.4              SVEGAPGKQSGAVAVSIFKDRLMQADSRMIQVAVDRKVLEAAGAGPAGNWGQIALRLRLQ	256
                                               ************************************************************
 
 A0A813HNJ6_78.6_69.8_78.4_24.2_72.0_19.4      KPSGLDYDHWDRIASVGIKLPRDVSNVKLRTSSKPQLRKLWELKNKTPEK	829
 A0A813INV8_79.5_72.9_78.8_21.6_72.9_20.1      KPSGLDYDHWDRIASVGIKLPRDVSNVKLRTSSKPQLRKLWELKNKTPEK	830
-A0A813FRG5_-1___-1___-1___-1___73.8_29.4      KPSGLDYDHWDRIASVGIKLPRDVSNVKLRTSSKPQLRKLWELKNKTPEK	306
+A0A813FRG5_-1_-1_-1_-1_73.8_29.4              KPSGLDYDHWDRIASVGIKLPRDVSNVKLRTSSKPQLRKLWELKNKTPEK	306
                                               **************************************************

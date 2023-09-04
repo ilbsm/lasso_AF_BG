@@ -1,5 +1,5 @@
 Using 8 threads
-Read 2 sequences (type: Protein) from clustalo-R20230831-182653-0930-30675492-p1m.sequence
+Read 2 sequences (type: Protein) from clustalo-R20230831-231819-0464-54155788-p1m.sequence
 not more sequences (2) than cluster-size (100), turn off mBed
 Progressive alignment progress: 100 % (1 out of 1)Progressive alignment progress done. CPU time: 0.07u 0.02s 00:00:00.09 Elapsed: 00:00:00
-Alignment written to clustalo-R20230831-182653-0930-30675492-p1m.clustal_num
+Alignment written to clustalo-R20230831-231819-0464-54155788-p1m.clustal_num

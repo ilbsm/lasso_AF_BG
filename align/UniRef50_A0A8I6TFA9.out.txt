@@ -1,9 +1,9 @@
 Using 8 threads
-Read 8 sequences (type: Protein) from clustalo-R20230831-190348-0248-85264404-p1m.sequence
-not more sequences (8) than cluster-size (100), turn off mBed
+Read 11 sequences (type: Protein) from clustalo-R20230901-000727-0182-49037193-p1m.sequence
+not more sequences (11) than cluster-size (100), turn off mBed
 Calculating pairwise ktuple-distances...
-Ktuple-distance calculation progress: 0 % (0 out of 36)Ktuple-distance calculation progress: 2 % (1 out of 36)Ktuple-distance calculation progress: 5 % (2 out of 36)Ktuple-distance calculation progress: 8 % (3 out of 36)Ktuple-distance calculation progress: 11 % (4 out of 36)Ktuple-distance calculation progress: 13 % (5 out of 36)Ktuple-distance calculation progress: 47 % (17 out of 36)Ktuple-distance calculation progress: 55 % (20 out of 36)Ktuple-distance calculation progress done. CPU time: 0.03u 0.00s 00:00:00.03 Elapsed: 00:00:00
-Guide tree written to clustalo-R20230831-190348-0248-85264404-p1m.dnd
+Ktuple-distance calculation progress: 0 % (0 out of 66)Ktuple-distance calculation progress: 1 % (1 out of 66)Ktuple-distance calculation progress: 3 % (2 out of 66)Ktuple-distance calculation progress: 4 % (3 out of 66)Ktuple-distance calculation progress: 6 % (4 out of 66)Ktuple-distance calculation progress: 7 % (5 out of 66)Ktuple-distance calculation progress: 9 % (6 out of 66)Ktuple-distance calculation progress: 46 % (31 out of 66)Ktuple-distance calculation progress: 53 % (35 out of 66)Ktuple-distance calculation progress: 66 % (44 out of 66)Ktuple-distance calculation progress: 71 % (47 out of 66)Ktuple-distance calculation progress done. CPU time: 0.03u 0.00s 00:00:00.03 Elapsed: 00:00:00
+Guide tree written to clustalo-R20230901-000727-0182-49037193-p1m.dnd
 Guide-tree computation done.
-Progressive alignment progress: 14 % (1 out of 7)Progressive alignment progress: 28 % (2 out of 7)Progressive alignment progress: 42 % (3 out of 7)Progressive alignment progress: 57 % (4 out of 7)Progressive alignment progress: 71 % (5 out of 7)Progressive alignment progress: 85 % (6 out of 7)Progressive alignment progress: 100 % (7 out of 7)Progressive alignment progress done. CPU time: 0.93u 0.10s 00:00:01.03 Elapsed: 00:00:01
-Alignment written to clustalo-R20230831-190348-0248-85264404-p1m.clustal_num
+Progressive alignment progress: 10 % (1 out of 10)Progressive alignment progress: 20 % (2 out of 10)Progressive alignment progress: 30 % (3 out of 10)Progressive alignment progress: 40 % (4 out of 10)Progressive alignment progress: 50 % (5 out of 10)Progressive alignment progress: 60 % (6 out of 10)Progressive alignment progress: 69 % (7 out of 10)Progressive alignment progress: 80 % (8 out of 10)Progressive alignment progress: 89 % (9 out of 10)Progressive alignment progress: 100 % (10 out of 10)Progressive alignment progress done. CPU time: 1.39u 0.12s 00:00:01.50 Elapsed: 00:00:01
+Alignment written to clustalo-R20230901-000727-0182-49037193-p1m.clustal_num

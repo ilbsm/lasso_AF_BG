@@ -1,5 +1,6 @@
 import os
 from tqdm import tqdm
+from collections import defaultdict
 
 def find_indexes(protein):
     fasta = protein['fasta']
@@ -27,12 +28,12 @@ for infile in tqdm(infiles, total = len(infiles)):
             line = line.strip().split()
             uniprot_id, lasso, bridge, lasso_range, *plddts = line
             uniprot_ids.append(uniprot_id)
+            proteins[uniprot_id] = defaultdict(lambda: '-')
             if bridge != '-':
                 uniprot_ids_AF.append(uniprot_id)
                 bridge = tuple([int(x) for x in bridge.split('-')])
-                proteins[uniprot_id] = {'cys':bridge, 'record':line, 'fasta':''}
-            else:
-                proteins[uniprot_id] = {'record':line, 'fasta':''}
+                proteins[uniprot_id]['cys'] = bridge
+            proteins[uniprot_id]['record'] = line
     with open('align/{}.aln-clustal_num.clustal_num'.format(name), 'r') as f:
         for line in f.readlines():
             line = line.strip().split()
@@ -57,15 +58,15 @@ for infile in tqdm(infiles, total = len(infiles)):
                 conserved.append('+')
             else:
                 conserved.append('-')
-        proteins[uniprot_id]['conserved'] = ' '.join(conserved)
+        proteins[uniprot_id]['conserved'] = '   '.join(conserved)
     with open('clusters3/{}'.format(infile), 'w') as g:
         cysteines_str = ' '.join([str(x) for x in cysteines])
-        g.write('uniprot_id  lasso_type                   {} bridge_aligned bridge lass_range plddts(c1 c2 mean_local min_local mean_global min_global)\n'.format(cysteines_str))
+        g.write('uniprot_id lasso_type                  {} bridge_aligned bridge lass_range plddts(c1 c2 mean_local min_local mean_global min_global)\n'.format(cysteines_str))
         for uniprot_id in uniprot_ids:
-            to_write1 = proteins[uniprot_id]['record'][:40]
+            to_write1 = '{:10} {:28}'.format(*proteins[uniprot_id]['record'][:2])
             to_write2 = proteins[uniprot_id]['conserved']
-            to_write3 = proteins[uniprot_id]['cys_aligned']
-            to_write4 = proteins[uniprot_id]['record'][40:]
+            to_write3 = '{:7}'.format(proteins[uniprot_id]['cys_aligned'])
+            to_write4 = '{:7} {:7} {:4} {:4} {:4} {:4} {:4} {:4}'.format(*proteins[uniprot_id]['record'][2:])
             g.write('{} {} {} {}\n'.format(to_write1, to_write2, to_write3, to_write4))
     
 

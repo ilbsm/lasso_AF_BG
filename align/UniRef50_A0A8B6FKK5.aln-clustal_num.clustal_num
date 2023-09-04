@@ -1,46 +1,57 @@
 CLUSTAL O(1.2.4) multiple sequence alignment
 
 
+A0A8S3U3V9_-1_-1_-1_-1_-1_-1                  MIEYKQEMNTQSDKCGIGRCQPKSLEYCATIACFTGIYSLSSLTTSTLSIYISSQITTLE	60
 A0A8B6FKK5_55.2_68.9_82.0_26.4_80.4_26.4      MIEYKQEMNTQSDKCGIGRCQPKSLQYCATIACFTGIYSLSSLTTSTLSIYISSQITTLE	60
 A0A8B6FHT9_67.6_77.1_82.4_26.8_81.1_26.8      -------MNTQSDKCGIGRCQPKSLQYCATIACFTGIYSLSSLTTSTLSIYISSQITTLE	53
-                                                     *****************************************************
+                                                     ******************:**********************************
 
+A0A8S3U3V9_-1_-1_-1_-1_-1_-1                  KQFGFNSSQSGFLLSCNDIGFLLLTLFVSYRATTAHIPRALGISTVLYGFAGILCSFAYF	120
 A0A8B6FKK5_55.2_68.9_82.0_26.4_80.4_26.4      KQFGFNSSQSGFLLSCNDIGFLLLTLFVSYRATTAHIPLALGISTVLYGFAGILCSFAYF	120
 A0A8B6FHT9_67.6_77.1_82.4_26.8_81.1_26.8      KQFGFNSSQSGFLLSCNDIGFLLLTLFVSYRATTAHIPLALGISTVLYGFAGILCSFAYF	113
-                                              ************************************************************
+                                              ************************************** *********************
 
+A0A8S3U3V9_-1_-1_-1_-1_-1_-1                  LMPSQGSRTETTNRTSFEQTDSLQLCNLKNLSSYDTDQCESEAPKAVGTSTAFTPYAMAI	180
 A0A8B6FKK5_55.2_68.9_82.0_26.4_80.4_26.4      LMPSQGSRTETTNRTSFEQTDSLQLCNLMNLSSYDADQCESEAPKAVGTATTFTPFAMVI	180
 A0A8B6FHT9_67.6_77.1_82.4_26.8_81.1_26.8      LMPSQGSRTETTNRTSFEQTDSLQLCNLMNLSSYDADQCESEAPKAVGTATTFTPFAMVI	173
-                                              ************************************************************
+                                              **************************** ******:*************:*:***:**.*
 
+A0A8S3U3V9_-1_-1_-1_-1_-1_-1                  IAIGMVLQGIGKSPRTPYVSYYVDENVEKRKTSMYLGIIITVGIFGPALAFALGAVFSNI	240
 A0A8B6FKK5_55.2_68.9_82.0_26.4_80.4_26.4      IAIGMILQGIGKSPRTPYVSYYVDENVEKRKTSMYLGIIITVGIFGPALAFALGAVFSNI	240
 A0A8B6FHT9_67.6_77.1_82.4_26.8_81.1_26.8      IAIGMILQGIGKSPRTPYVSYYVDENVEKRKTSMYLGIIITVGIFGPALAFALGAVFSNI	233
-                                              ************************************************************
+                                              *****:******************************************************
 
+A0A8S3U3V9_-1_-1_-1_-1_-1_-1                  YVTLEDVTITTRDPRWIGAWWLGFLIFGIISIVISLPLFCFPKHYQSNKEVIKTEPKKNI	300
 A0A8B6FKK5_55.2_68.9_82.0_26.4_80.4_26.4      YVTLEDVTITTRDPRWIGAWWLGFLIFGIISIVISLPLFCFPKHFQSNKEVIKTEPKENV	300
 A0A8B6FHT9_67.6_77.1_82.4_26.8_81.1_26.8      YVTLEDVTITTRDPRWIGAWWLGFLIFGIISIVISLPLFCFPKHFQSNKEVIKTEPKENV	293
-                                              ************************************************************
+                                              ********************************************:************:*:
 
+A0A8S3U3V9_-1_-1_-1_-1_-1_-1                  KFLSHIKGFISTVLRLFRNGCFTFSILGSCLQMFFVSGMISFMPKFLETQFTIPTWHANL	360
 A0A8B6FKK5_55.2_68.9_82.0_26.4_80.4_26.4      KFLSHMKGFISTVLRLFRNGCFTFSILGSCLQMFFVSGMISFMPKFLETQFTIPTWHANL	360
 A0A8B6FHT9_67.6_77.1_82.4_26.8_81.1_26.8      KFLSHMKGFISTVLRLFRNGCFTFSILGSCLQMFFVSGMISFMPKFLETQFTIPTWHANL	353
-                                              ************************************************************
+                                              *****:******************************************************
 
+A0A8S3U3V9_-1_-1_-1_-1_-1_-1                  LMGGLNICSASLGTFIGGFIVYKFRLTPYACIKLALILTATTSFAPLIGFFVGCDNPEII	420
 A0A8B6FKK5_55.2_68.9_82.0_26.4_80.4_26.4      LMGGLNICSASLGTFIGGFIVYKFRMTPYACMKLALILTATTSFAPLIGFFVGCDNPEII	420
 A0A8B6FHT9_67.6_77.1_82.4_26.8_81.1_26.8      LMGGLNICSASLGTFIGGFIVYKFRMTPYACMKLALILTATTSFAPLIGFFVGCDNPEII	413
-                                              ************************************************************
+                                              *************************:*****:****************************
 
+A0A8S3U3V9_-1_-1_-1_-1_-1_-1                  GYNTKSNANITTCIEDCNCNKDTYFPVCGSDNRNYFSYCHAGCMEHNLEGYAECKCIGEG	480
 A0A8B6FKK5_55.2_68.9_82.0_26.4_80.4_26.4      GYNTKSNVNLTTCIEDCNCNKDTYFPVCGSDNRNYFSYCQAGCMEHNLDGYAECKCIGEG	480
 A0A8B6FHT9_67.6_77.1_82.4_26.8_81.1_26.8      GYNTKSNVNLTTCIEDCNCNKDTYFPVCGSDNRNYFSYCQAGCMEHNLDGYAECKCIGEG	473
-                                              ************************************************************
+                                              *******.*:*****************************:********:***********
 
+A0A8S3U3V9_-1_-1_-1_-1_-1_-1                  ATATPGLCKPDCDMLYVYISLVFVFALSQTIALMPEYIFVMRCVDDKDKAMALAFRSLLA	540
 A0A8B6FKK5_55.2_68.9_82.0_26.4_80.4_26.4      ATATPGLCKPDCDMLYVYISLVFVFALSQTIALMPEYIFVMRCVDDKDKAMALAFRSLLA	540
 A0A8B6FHT9_67.6_77.1_82.4_26.8_81.1_26.8      ATATPGLCKPDCDMLYVYISLVFVFALSQTIALMPEYIFVMRCVDDKDKAMALAFRSLLA	533
                                               ************************************************************
 
+A0A8S3U3V9_-1_-1_-1_-1_-1_-1                  TVLGWFPGPVIVGKVVDTCCRLWNSSCGGTGACALYDLVDFRYRRHALDLGVKLVATVFS	600
 A0A8B6FKK5_55.2_68.9_82.0_26.4_80.4_26.4      TVLGWFPGPVIVGKVVDTCCRLWNSSCGGTGACALYDLVDFRYRRHALDLGVKLVATVFS	600
 A0A8B6FHT9_67.6_77.1_82.4_26.8_81.1_26.8      TVLGWFPGPVIVGKVVDTCCRLWNSSCGGTGACALYDLVDFRYRRHALDLGVKLVATVFS	593
                                               ************************************************************
 
+A0A8S3U3V9_-1_-1_-1_-1_-1_-1                  FLAFMCARNRQDLKQKPVSKLEKTIIPEVEELMEKSTDDEHIHGHRKLINGHSA	654
 A0A8B6FKK5_55.2_68.9_82.0_26.4_80.4_26.4      FLAFMCARNRQDLKQKPVSKLEKTIIPEVEELMEKSTDDEHIHGHRKLINGHSA	654
 A0A8B6FHT9_67.6_77.1_82.4_26.8_81.1_26.8      FLAFMCARNRQDLKQKPVSKLEKTIIPEVEELMEKSTDDEHIHGHRKLINGHSA	647
                                               ******************************************************

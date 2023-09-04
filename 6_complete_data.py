@@ -1,4 +1,5 @@
 import numpy as np
+import requests
 from Bio.PDB.MMCIF2Dict import MMCIF2Dict
 from tqdm import tqdm
 
@@ -78,7 +79,11 @@ if __name__ == '__main__':
                         if uniprot_id in absent:
                             lasso = 'no_struct'
                             plddts_str = '   '.join(['-1']*6)
+                            plddts_str2 = '_'.join(['-1']*6)
                             edges = bridge
+                            api_url = 'https://rest.uniprot.org/uniprotkb/search?query=accession:{}'.format(uniprot_id)
+                            response = requests.get(api_url)
+                            fasta = response.json()['results'][0]['sequence']['value']
                         else:
                             ndx2plddt, fasta = read_cif('cifs/AF-{}-F1-model_v4.cif'.format(uniprot_id))
                             if uniprot_id in uniid2edges:
@@ -88,11 +93,12 @@ if __name__ == '__main__':
                             plddts = get_plddt(ndx2plddt, bridge, lasso, edges)
                             plddts = [str(round(x,1)) for x in plddts]
                             plddts_str = '{:4} {:4} {:4} {:4} {:4} {:4}'.format(*plddts)
-                            with open('fasta/{}.txt'.format(uniprot_id), 'w') as ggg:
-                                ggg.write('>{}_{}\n'.format(uniprot_id, plddts_str.replace(' ','_')))
-                                ggg.write(fasta + '\n')
-                            gg.write('>{}_{}\n'.format(uniprot_id, plddts_str.replace(' ','_')))
-                            gg.write(fasta + '\n')
+                            plddts_str2 = '_'.join(plddts)
+                        gg.write('>{}_{}\n'.format(uniprot_id, plddts_str2))
+                        gg.write(fasta + '\n')
+                        with open('fasta/{}.txt'.format(uniprot_id), 'w') as ggg:
+                            ggg.write('>{}_{}\n'.format(uniprot_id, plddts_str2))
+                            ggg.write(fasta + '\n')
                         edges = '-'.join([str(x) for x in edges])
                         record = [uniprot_id, lasso, bridge, edges, plddts_str]
                         if lasso[0] == 'L':

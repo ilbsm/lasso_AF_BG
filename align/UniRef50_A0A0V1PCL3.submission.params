@@ -1,5 +1,5 @@
 <execution>
-  <commandLine>singularity exec /nfs/public/ro/es_codon/appbin/linux-x86_64/singularity/clustalo:1.2.4 clustalo --infile clustalo-R20230831-180205-0101-9728458-p1m.sequence --threads 8 --MAC-RAM 8000 --verbose --guidetree-out clustalo-R20230831-180205-0101-9728458-p1m.dnd --outfmt clustal --resno --outfile clustalo-R20230831-180205-0101-9728458-p1m.clustal_num --output-order tree-order --seqtype protein</commandLine>
+  <commandLine>singularity exec /nfs/public/ro/es_codon/appbin/linux-x86_64/singularity/clustalo:1.2.4 clustalo --infile clustalo-R20230831-224544-0223-31623988-p1m.sequence --threads 8 --MAC-RAM 8000 --verbose --guidetree-out clustalo-R20230831-224544-0223-31623988-p1m.dnd --outfmt clustal --resno --outfile clustalo-R20230831-224544-0223-31623988-p1m.clustal_num --output-order tree-order --seqtype protein</commandLine>
   <userParameters class="linked-hash-map">
     <entry>
       <string>program</string>
@@ -59,16 +59,16 @@
     </entry>
     <entry>
       <string>sequence</string>
-      <string>/nfs/public/rw/es/projects/wp-jdispatcher/sources/prod/jobs/clustalo/rest/20230831/1802/clustalo-R20230831-180205-0101-9728458-p1m.sequence</string>
+      <string>/nfs/public/rw/es/projects/wp-jdispatcher/sources/prod/jobs/clustalo/rest/20230831/2244/clustalo-R20230831-224544-0223-31623988-p1m.sequence</string>
     </entry>
   </userParameters>
-  <outputLocation>file:/nfs/public/rw/es/projects/wp-jdispatcher/sources/prod/jobs/clustalo/rest/20230831/1802//clustalo-R20230831-180205-0101-9728458-p1m.output</outputLocation>
-  <errorLocation>file:/nfs/public/rw/es/projects/wp-jdispatcher/sources/prod/jobs/clustalo/rest/20230831/1802//clustalo-R20230831-180205-0101-9728458-p1m.error</errorLocation>
+  <outputLocation>file:/nfs/public/rw/es/projects/wp-jdispatcher/sources/prod/jobs/clustalo/rest/20230831/2244//clustalo-R20230831-224544-0223-31623988-p1m.output</outputLocation>
+  <errorLocation>file:/nfs/public/rw/es/projects/wp-jdispatcher/sources/prod/jobs/clustalo/rest/20230831/2244//clustalo-R20230831-224544-0223-31623988-p1m.error</errorLocation>
   <toolId>clustalo</toolId>
-  <jobId>clustalo-R20230831-180205-0101-9728458-p1m</jobId>
+  <jobId>clustalo-R20230831-224544-0223-31623988-p1m</jobId>
   <email>bagren@cent.uw.edu.pl</email>
   <emailNotification>false</emailNotification>
-  <clientId>79.184.15.134</clientId>
+  <clientId>89.64.80.9</clientId>
   <executionContext>rest</executionContext>
   <additionalProperties class="uk.ac.ebi.properties.commonsconfiguration.CommonsConfigurationPropertiesContainer">
     <property key="command">sh /nfs/public/rw/es/projects/wp-jdispatcher/sources/prod/resources/management/scripts/remoteExecution.sh &quot;prod&quot; /nfs/public/rw/es/projects/wp-jdispatcher/sources/prod/resources/services-hh-wp-prod.properties ${tool.id} ${job.id} ${host.id} /nfs/public/rw/es/projects/wp-jdispatcher/sources/prod/lib/jdispatcher-execution-1.0-SNAPSHOT-jar-with-dependencies.jar</property>
