@@ -22,17 +22,23 @@ for cluster in tqdm(clusters, total = len(clusters)):
         fasta = cluster_elem['sequence']['value'].replace('\n','')
         domains = []
         sdomains = []
+        pdbs = []
         for ref in cluster_elem['uniProtKBCrossReferences']:
             if ref['database'] == 'Pfam':
                 domains.append(ref['id'])
             elif ref['database'] == 'SUPFAM':
                 sdomains.append(ref['id'])
+            elif ref['database'] == 'PDB':
+                pdbs.append(ref['id'])
         cluster_data[uniprot_id] = defaultdict(lambda: '-')
         cluster_data[uniprot_id]['fasta'] = fasta
         if domains:
             cluster_data[uniprot_id]['domains'] = ','.join(domains)
         if sdomains:
             cluster_data[uniprot_id]['sdomains'] = ','.join(sdomains)
+        if pdbs:
+            print(pdbs)
+            cluster_data[uniprot_id]['pdbs'] = ','.join(pdbs)
     fasta_representatives.append('>{}\n{}'.format(cluster, cluster_data[cluster.split('_')[1]]['fasta']))
     with open('clusters/{}.txt'.format(cluster), 'r') as f:
         for line in f.readlines():
@@ -51,6 +57,7 @@ for cluster in tqdm(clusters, total = len(clusters)):
     with open('clusters2/{}.txt'.format(cluster), 'w') as g:
         for uniprot_id in cluster_data.keys():
             r = cluster_data[uniprot_id]
+            #record = [uniprot_id, r['lasso'], r['bridge'], r['domains'], r['sdomains'], r['pdbs']]
             record = [uniprot_id, r['lasso'], r['bridge'], r['domains'], r['sdomains']]
             g.write('{:10} {:28} {:7} {} {}\n'.format(*record))
 with open('representatives_fasta.txt', 'w') as g:
