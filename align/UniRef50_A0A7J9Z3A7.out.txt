@@ -1,9 +1,9 @@
 Using 8 threads
-Read 3 sequences (type: Protein) from clustalo-R20230831-235335-0674-13326228-p1m.sequence
+Read 3 sequences (type: Protein) from clustalo-R20230905-164435-0388-4793267-p1m.sequence
 not more sequences (3) than cluster-size (100), turn off mBed
 Calculating pairwise ktuple-distances...
-Ktuple-distance calculation progress: 0 % (0 out of 6)Ktuple-distance calculation progress: 16 % (1 out of 6)Ktuple-distance calculation progress: 50 % (3 out of 6)Ktuple-distance calculation progress done. CPU time: 0.03u 0.00s 00:00:00.03 Elapsed: 00:00:00
-Guide tree written to clustalo-R20230831-235335-0674-13326228-p1m.dnd
+Ktuple-distance calculation progress: 0 % (0 out of 6)Ktuple-distance calculation progress: 16 % (1 out of 6)Ktuple-distance calculation progress: 50 % (3 out of 6)Ktuple-distance calculation progress done. CPU time: 0.01u 0.00s 00:00:00.01 Elapsed: 00:00:00
+Guide tree written to clustalo-R20230905-164435-0388-4793267-p1m.dnd
 Guide-tree computation done.
-Progressive alignment progress: 50 % (1 out of 2)Progressive alignment progress: 100 % (2 out of 2)Progressive alignment progress done. CPU time: 0.64u 0.02s 00:00:00.66 Elapsed: 00:00:00
-Alignment written to clustalo-R20230831-235335-0674-13326228-p1m.clustal_num
+Progressive alignment progress: 50 % (1 out of 2)Progressive alignment progress: 100 % (2 out of 2)Progressive alignment progress done. CPU time: 0.16u 0.01s 00:00:00.17 Elapsed: 00:00:00
+Alignment written to clustalo-R20230905-164435-0388-4793267-p1m.clustal_num

@@ -1,25 +1,143 @@
-A0A0A2I7J1 LS4-++-C                     81-368  81-596  89.5 95.6 93.6 44.3 85.1 22.5
-A0A0L1JE65 LS4-++-C                     40-334  40-552  89.8 95.2 94.0 36.1 89.3 27.1
-A0A135LAW9 LS4-++-C                     47-334  47-562  90.1 95.6 93.3 42.6 88.2 23.6
-A0A1L9SGV5 LS4-++-C                     40-329  40-564  90.7 96.3 92.4 41.8 88.5 26.6
-A0A1L9UV00 LS4-++-C                     43-327  43-545  87.4 95.1 94.7 61.8 88.6 28.6
-A0A1M3TQC2 LS4-++-C                     43-327  43-548  87.9 95.8 95.1 63.6 89.1 26.8
-A0A2I1DD95 LS4-++-C                     37-323  37-545  87.5 94.1 94.2 39.6 89.7 26.4
-A0A2I2GHT3 LS4-++-C                     38-324  38-553  89.6 96.5 93.8 34.6 89.9 30.1
-A0A318YMM3 LS4-++-C                     43-327  43-545  85.8 95.0 95.0 66.4 88.8 27.4
-A0A3A2Z451 LS4-++-C                     5-289   5-511   89.9 95.3 94.8 44.5 94.1 34.4
-A0A4V3UQL9 LS4-++-C                     42-328  42-549  88.2 95.7 94.6 49.2 89.6 28.2
-A0A5N5WKK5 LS4-++-C                     45-340  45-561  89.1 95.4 94.0 29.8 88.5 26.2
-A0A5N6X5Q0 LS4-++-C                     44-344  44-564  88.7 93.9 93.3 31.3 88.4 26.2
-A2QF94     LS4-++-C                     43-327  43-545  87.3 95.8 95.0 63.8 88.6 26.7
-K9GAL6     LS4-++-C                     48-335  48-563  91.0 95.7 93.2 43.2 88.3 26.7
-Q5B3S0     LS4-++-C                     40-338  40-560  88.4 95.2 92.0 38.9 87.5 25.9
-A0A0M8P0C4 LS4-++-C                     48-335  48-566  89.4 95.4 92.9 41.1 87.8 20.8
-A0A1F8A808 LS4-++-C                     41-336  41-554  89.4 95.2 93.6 34.4 88.9 28.9
-A0A1L9PGK1 LS4-++-C                     42-339  42-562  89.2 94.6 92.9 40.8 88.7 26.4
-A0A1L9RH09 LS4-++-C                     39-320  39-534  86.1 95.9 95.6 65.4 90.8 28.7
-A0A1L9TP92 LS4-++-C                     41-338  41-560  89.8 95.1 92.3 37.6 88.3 26.3
-A0A8H3XXT2 no_struct                    -       -       -1   -1   -1   -1   -1   -1
-A0A8H6P905 no_struct                    -       -       -1   -1   -1   -1   -1   -1
-A0A8H6PKX3 no_struct                    -       -       -1   -1   -1   -1   -1   -1
-A0A8H6VC10 no_struct                    -       -       -1   -1   -1   -1   -1   -1
+A0A0A2I7J1 LS4-++-C                     81-368  PF07687,PF01546 SSF55031,SSF53187
+A0A0L1JE65 LS4-++-C                     40-334  PF07687,PF01546 SSF55031,SSF53187
+A0A135LAW9 LS4-++-C                     47-334  PF07687,PF01546 SSF55031,SSF53187
+A0A1L9SGV5 LS4-++-C                     40-329  PF07687,PF01546 SSF55031,SSF53187
+A0A1L9UV00 LS4-++-C                     43-327  PF07687,PF01546 SSF55031,SSF53187
+A0A1M3TQC2 LS4-++-C                     43-327  PF07687,PF01546 SSF55031,SSF53187
+A0A2I1DD95 LS4-++-C                     37-323  PF07687,PF01546 SSF55031,SSF53187
+A0A2I2GHT3 LS4-++-C                     38-324  PF07687,PF01546 SSF55031,SSF53187
+A0A318YMM3 LS4-++-C                     43-327  PF07687,PF01546 SSF55031,SSF53187
+A0A3A2Z451 LS4-++-C                     5-289   PF07687,PF01546 SSF55031,SSF53187
+A0A4V3UQL9 LS4-++-C                     42-328  PF07687,PF01546 SSF55031,SSF53187
+A0A5N5WKK5 LS4-++-C                     45-340  PF07687,PF01546 SSF55031,SSF53187
+A0A5N6X5Q0 LS4-++-C                     44-344  PF07687,PF01546 SSF55031,SSF53187
+A0A8H3XXT2 -                            -       PF07687,PF01546 SSF55031,SSF53187
+A0A8H6P905 -                            -       PF07687,PF01546 SSF55031,SSF53187
+A0A8H6PKX3 -                            -       PF07687,PF01546 SSF55031,SSF53187
+A0A8H6VC10 -                            -       PF07687,PF01546 SSF55031,SSF53187
+A2QF94     LS4-++-C                     43-327  PF07687,PF01546 SSF55031,SSF53187
+K9GAL6     LS4-++-C                     48-335  PF07687,PF01546 SSF55031,SSF53187
+Q5B3S0     LS4-++-C                     40-338  PF07687,PF01546 SSF55031,SSF53187
+A0A0M8P0C4 LS4-++-C                     48-335  PF07687,PF01546 SSF55031,SSF53187
+A0A1F8A808 LS4-++-C                     41-336  PF07687,PF01546 SSF55031,SSF53187
+A0A1L9PGK1 LS4-++-C                     42-339  PF07687,PF01546 SSF55031,SSF53187
+A0A1L9RH09 LS4-++-C                     39-320  PF07687,PF01546 SSF55031,SSF53187
+A0A1L9TP92 LS4-++-C                     41-338  PF07687,PF01546 SSF55031,SSF53187
+A0A1R3R643 -                            -       PF07687,PF01546 SSF55031,SSF53187
+A0A2I1C268 -                            -       PF07687,PF01546 SSF55031,SSF53187
+A0A2I1CJG8 -                            -       PF07687,PF01546 SSF55031,SSF53187
+A0A2I2EY48 -                            -       PF07687,PF01546 SSF55031,SSF53187
+A0A2J5HYU1 -                            -       PF07687,PF01546 SSF55031,SSF53187
+A0A2V5GZN3 -                            -       PF07687,PF01546 SSF55031,SSF53187
+A0A319B7Z0 -                            -       PF07687,PF01546 SSF55031,SSF53187
+A0A319E7F6 -                            -       PF07687,PF01546 SSF55031,SSF53187
+A0A319ESV7 -                            -       PF07687,PF01546 SSF55031,SSF53187
+A0A395HBQ2 -                            -       PF07687,PF01546 SSF55031,SSF53187
+A0A395HWJ1 -                            -       PF07687,PF01546 SSF55031,SSF53187
+A0A397GAM6 -                            -       PF07687,PF01546 SSF55031,SSF53187
+A0A3F3PT39 -                            -       PF07687,PF01546 SSF55031,SSF53187
+A0A443I4J0 -                            -       PF07687,PF01546 SSF55031,SSF53187
+A0A5N6SZX2 -                            -       PF07687,PF01546 SSF55031,SSF53187
+A0A5N6VKM0 -                            -       PF07687,PF01546 SSF55031,SSF53187
+A0A7H8RBN5 -                            -       PF07687,PF01546 SSF55031,SSF53187
+A0A7T6XVR3 -                            -       PF07687,PF01546 SSF55031,SSF53187
+A0A8G1RIJ9 -                            -       PF07687,PF01546 SSF55031,SSF53187
+A0A8H5ZZM4 -                            -       PF07687,PF01546 SSF55031,SSF53187
+A1CJH3     -                            -       PF07687,PF01546 SSF55031,SSF53187
+K9H2N2     -                            -       PF07687,PF01546 SSF55031,SSF53187
+Q4WWU0     -                            -       PF07687,PF01546 SSF55031,SSF53187
+A0A0A2L7Y7 -                            -       PF07687,PF01546 SSF55031,SSF53187
+A0A0G4P325 -                            -       PF07687,PF01546 SSF55031,SSF53187
+A0A0U5G9D6 -                            -       PF07687,PF01546 SSF55031,SSF53187
+A0A124GSW7 -                            -       PF07687,PF01546 SSF55031,SSF53187
+A0A1L9VK68 -                            -       PF07687,PF01546 SSF55031,SSF53187
+A0A1U8QQT6 -                            -       PF07687,PF01546 SSF55031,SSF53187
+A0A1V6NYU2 -                            -       PF07687,PF01546 SSF55031,SSF53187
+A0A254TQA7 -                            -       PF07687,PF01546 SSF55031,SSF53187
+A0A2V5HV86 -                            -       PF07687,PF01546 SSF53187
+A0A317V4X6 -                            -       PF07687,PF01546 SSF55031,SSF53187
+A0A319AK99 -                            -       PF07687,PF01546 SSF55031,SSF53187
+A0A370C676 -                            -       PF07687,PF01546 SSF55031,SSF53187
+A0A3M7JWN6 -                            -       PF07687,PF01546 SSF55031,SSF53187
+A0A401KFF6 -                            -       PF07687,PF01546 SSF55031,SSF53187
+A0A5M3Z9G2 -                            -       PF07687,PF01546 SSF55031,SSF53187
+A0A5N5WI98 -                            -       PF07687,PF01546 SSF55031,SSF53187
+A0A5N6G3G9 -                            -       PF07687,PF01546 SSF55031,SSF53187
+A0A5N6H3V6 -                            -       PF07687,PF01546 SSF55031,SSF53187
+A0A5N6UAJ7 -                            -       PF07687,PF01546 SSF55031,SSF53187
+A0A5N7DP69 -                            -       PF07687,PF01546 SSF55031,SSF53187
+A0A5N7DVV5 -                            -       PF07687,PF01546 SSF55031,SSF53187
+A0A7R7WQI6 -                            -       PF07687,PF01546 SSF55031,SSF53187
+A0A8H4DXR8 -                            -       PF07687,PF01546 SSF55031,SSF53187
+A0A8H4WLF4 -                            -       PF07687,PF01546 SSF55031,SSF53187
+A0A8J8WMQ5 -                            -       PF07687,PF01546 SSF55031,SSF53187
+A0A8T8X9A4 -                            -       PF07687,PF01546 SSF55031,SSF53187
+Q0CC67     -                            -       PF07687,PF01546 SSF55031,SSF53187
+V5HSC5     -                            -       PF07687,PF01546 SSF55031,SSF53187
+W6QCG4     -                            -       PF07687,PF01546 SSF55031,SSF53187
+A0A0F0IL32 -                            -       PF07687,PF01546 SSF55031,SSF53187
+A0A0F4YI06 -                            -       PF07687,PF01546 SSF55031,SSF53187
+A0A0F7TMP2 -                            -       PF07687,PF01546 SSF55031,SSF53187
+A0A0J5SSJ5 -                            -       PF07687,PF01546 SSF55031,SSF53187
+A0A0S7DN28 -                            -       PF07687,PF01546 SSF55031,SSF53187
+A0A100IRN1 -                            -       PF07687,PF01546 SSF55031,SSF53187
+A0A1E3BC96 -                            -       PF07687,PF01546 SSF55031,SSF53187
+A0A1L9N932 -                            -       PF07687,PF01546 SSF55031,SSF53187
+A0A1L9WVP7 -                            -       PF07687,PF01546 SSF55031,SSF53187
+A0A1S9DIF3 -                            -       PF07687,PF01546 SSF55031,SSF53187
+A0A1V6PK52 -                            -       PF07687,PF01546 SSF55031,SSF53187
+A0A1V6Q226 -                            -       PF07687,PF01546 SSF55031,SSF53187
+A0A1V6S5Q4 -                            -       PF07687,PF01546 SSF55031,SSF53187
+A0A1V6TDF4 -                            -       PF07687,PF01546 SSF55031,SSF53187
+A0A1V6TV34 -                            -       PF07687,PF01546 SSF55031,SSF53187
+A0A1V6UJS3 -                            -       PF07687,PF01546 SSF55031,SSF53187
+A0A229YC86 -                            -       PF07687,PF01546 SSF55031,SSF53187
+A0A2G7FSY6 -                            -       PF07687,PF01546 SSF55031,SSF53187
+A0A2H3IJJ5 -                            -       PF07687,PF01546 SSF55031,SSF53187
+A0A319CGT6 -                            -       PF07687,PF01546 SSF55031,SSF53187
+A0A3D8SIS7 -                            -       PF07687,PF01546 SSF55031,SSF53187
+A0A5N6D4Q8 -                            -       PF07687,PF01546 SSF55031,SSF53187
+A0A5N6I2H7 -                            -       PF07687,PF01546 SSF55031,SSF53187
+A0A5N6JHQ8 -                            -       PF07687,PF01546 SSF55031,SSF53187
+A0A5N7CM71 -                            -       PF07687,PF01546 SSF55031,SSF53187
+A0A7R7VVF0 -                            -       PF07687,PF01546 SSF55031,SSF53187
+A0A7R8AKH2 -                            -       PF07687,PF01546 SSF55031,SSF53187
+A0A8E0QPL1 -                            -       PF07687,PF01546 SSF55031,SSF53187
+A0A8H3N7X1 -                            -       PF07687,PF01546 SSF55031,SSF53187
+A1D806     -                            -       PF07687,PF01546 SSF55031,SSF53187
+G3Y2P5     -                            -       PF07687,PF01546 SSF55031,SSF53187
+Q2U4L8     -                            -       PF07687,PF01546 SSF55031,SSF53187
+A0A017SIK8 -                            -       PF07687,PF01546 SSF55031,SSF53187
+A0A0U1LK98 -                            -       PF07687,PF01546 SSF55031,SSF53187
+A0A146FEN8 -                            -       PF07687,PF01546 SSF55031,SSF53187
+A0A167SM38 -                            -       PF07687,PF01546 SSF55031,SSF53187
+A0A1F5LM75 -                            -       PF07687,PF01546 SSF55031,SSF53187
+A0A1Q5Q9V3 -                            -       PF07687,PF01546 SSF55031,SSF53187
+A0A1Q5TAT2 -                            -       PF07687,PF01546 SSF55031,SSF53187
+A0A1S9RHY3 -                            -       PF07687,PF01546 SSF55031,SSF53187
+A0A1V6R641 -                            -       PF07687,PF01546 SSF55031,SSF53187
+A0A1V6YTK9 -                            -       PF07687,PF01546 SSF55031,SSF53187
+A0A229XAB3 -                            -       PF07687,PF01546 SSF55031,SSF53187
+A0A2P2HD10 -                            -       PF07687,PF01546 SSF55031,SSF53187
+A0A317V467 -                            -       PF07687,PF01546 SSF55031,SSF53187
+A0A317X7M1 -                            -       PF07687,PF01546 SSF55031,SSF53187
+A0A318ZJT7 -                            -       PF07687,PF01546 SSF55031,SSF53187
+A0A370PRQ2 -                            -       PF07687,PF01546 SSF55031,SSF53187
+A0A5N6EKD5 -                            -       PF07687,PF01546 SSF55031,SSF53187
+A0A5N6TVU0 -                            -       PF07687,PF01546 SSF55031,SSF53187
+A0A5N6Y4L7 -                            -       PF07687,PF01546 SSF55031,SSF53187
+A0A5N7AKI0 -                            -       PF07687,PF01546 SSF55031,SSF53187
+A0A5N7AX54 -                            -       PF07687,PF01546 SSF55031,SSF53187
+A0A7G5JE19 -                            -       PF07687,PF01546 SSF55031,SSF53187
+A0A8G1R0S6 -                            -       PF07687,PF01546 SSF55031,SSF53187
+A0A8H4GYU9 -                            -       PF07687,PF01546 SSF55031,SSF53187
+A0A8H4MS90 -                            -       PF07687,PF01546 SSF55031,SSF53187
+A0A8H6PN59 -                            -       PF07687,PF01546 SSF55031,SSF53187
+B0XYT4     -                            -       PF07687,PF01546 SSF55031,SSF53187
+B6HEH9     -                            -       PF07687,PF01546 SSF55031,SSF53187
+B8MMJ9     -                            -       PF07687,PF01546 SSF55031,SSF53187
+B8NTV3     -                            -       PF07687,PF01546 SSF55031,SSF53187
+G7XCJ0     -                            -       PF07687,PF01546 SSF55031,SSF53187
+I8TF93     -                            -       PF07687,PF01546 SSF55031,SSF53187
+S8AY36     -                            -       PF07687,PF01546 SSF55031,SSF53187
+A0A8H3P294 -                            -       PF01546 SSF53187

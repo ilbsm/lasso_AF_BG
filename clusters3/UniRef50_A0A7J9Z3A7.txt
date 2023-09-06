@@ -1,0 +1,4 @@
+uniprot_id lasso_type                  318 523 bridge_aligned bridge lasso_range plddts(c1 c2 mean_local min_local mean_global min_global) Pfam SUPFAM
+A0A5J6L734 LS2--N                       +   +  318-523 224-428 150-428 91.9 76.9 89.7 50.2 86.0 30.6 PF01547 SSF53850
+A0A4R5DCZ0 LS4--+-N                     +   +  318-523 221-425 150-425 88.1 66.9 91.5 66.9 87.2 31.5 PF01547 SSF53850
+A0A7J9Z3A7 LS2--N                       +   +  318-523 318-523 249-523 92.2 78.4 91.8 66.1 77.2 24.5 PF01547 SSF53850
