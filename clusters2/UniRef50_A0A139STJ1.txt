@@ -1,0 +1,10 @@
+A0A139SNE9 LS2--N                       157-255 PF05721 SSF51197
+A0A139SL03 LS2--N                       176-271 PF05721 SSF51197
+A0A139SL22 LS2--N                       176-271 PF05721 SSF51197
+A0A960RGR6 -                            -       PF05721 SSF51197
+A0A139SM00 LS2--N                       169-264 PF05721 SSF51197
+A0A139SPG5 LS2--N                       201-296 PF05721 SSF51197
+A0A139STJ1 LS2--N                       162-259 PF05721 SSF51197
+A0A139SPU9 LS2--N                       180-275 PF05721 SSF51197
+A0A2E4IWL9 LS2--N                       172-267 PF05721 SSF51197
+A0A2T6DNX4 -                            -       PF05721 SSF51197

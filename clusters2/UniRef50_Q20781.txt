@@ -1,0 +1,15 @@
+Q20781     LS2++C                       53-299  PF00194 SSF51069
+A0A2G5ULA1 LS2++C                       67-251  PF00194 SSF51069
+A0A131MB23 -                            -       PF00194 SSF51069
+A0A2A2LJT3 LS2++C                       46-230  PF00194 SSF51069
+G0MC73     LS2++C                       54-238  PF00194 SSF51069
+A0A8S1ENB1 -                            -       PF00194 SSF51069
+A8Y3G7     LS2++C                       65-249  PF00194 SSF51069
+A0A2A2KY01 LS2++C                       46-230  PF00194 SSF51069
+A0A2A2LK11 LS2++C                       46-230  PF00194 SSF51069
+A0A2P4VUQ0 LS2++C                       56-240  PF00194 SSF51069
+A0A260Z5U7 LS2++C                       52-236  PF00194 SSF51069
+A0A261C8V7 LS2++C                       54-238  PF00194 SSF51069
+A0A6A5H0P6 LS2++C                       54-238  PF00194 SSF51069
+E3MFX5     LS2++C                       56-240  PF00194 SSF51069
+E3MFX6     -                            -       - -

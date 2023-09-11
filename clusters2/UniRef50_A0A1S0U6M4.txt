@@ -1,0 +1,16 @@
+A0A3P6SWD3 LS2++C                       38-216  PF00194 SSF51069
+A0A4E9F1V7 LS2++C                       36-214  PF00194 SSF51069
+A0A8R1XU61 -                            -       PF00194 SSF51069
+A0A158Q8E3 LS2++C                       25-210  PF00194 SSF51069
+A0A183HZ79 LS2++C                       29-207  PF00194 SSF51069
+A0A1I8EGQ5 LS2++C                       36-214  PF00194 SSF51069
+A0A1S0U6M4 LS2++C                       36-214  PF00194 SSF51069
+A0A7I4KJ21 LS2++C                       36-214  PF00194 SSF51069
+A0A915PEL0 -                            -       PF00194 SSF51069
+A0A158PRP1 LS2++C                       10-188  PF00194 SSF51069
+A0A182EJ86 LS2++C                       54-232  PF00194 SSF51069
+A0A1I7VPE2 -                            -       PF00194 SSF51069
+A0A238BT95 LS2++C                       37-215  PF00194 SSF51069
+A0A8J2PZQ2 -                            -       PF00194 SSF51069
+J9EGL1     -                            -       PF00194 SSF51069
+A0A3P7GLR6 -                            -       PF00194 SSF51069

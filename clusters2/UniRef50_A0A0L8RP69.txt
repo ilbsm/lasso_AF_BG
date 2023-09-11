@@ -1,0 +1,8 @@
+E9P990     LS2--C                       29-175  PF00624,PF07691 SSF56988
+S6B8S3     -                            -       PF07691 -
+E9P991     LS2--C                       29-175  PF00624,PF07691 SSF56988
+H0GXU7     LS2--C                       29-196  PF07691 SSF56988
+A0A6C1DQH9 LS2--C                       28-182  PF00624,PF07691 SSF56988
+A0A6C1EBA1 LS2--C                       27-189  PF00624,PF07691 SSF56988
+A0A0L8RP69 -                            -       PF00624,PF07691 -
+H0GBT9     -                            -       PF00624,PF07691 -

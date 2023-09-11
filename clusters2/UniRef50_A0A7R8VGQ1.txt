@@ -1,0 +1,8 @@
+A0A7R9F149 LLS+1,2++                    85-357  PF00083 SSF103473
+A0A7R9E3U8 LLS+1,2++                    85-357  PF00083 SSF103473
+A0A7R9PCH2 LLS+1,2++                    85-357  PF00083 SSF103473
+A0A7R9PHX6 LLS+1,2++                    85-357  PF00083 SSF103473
+A0A7R8VGQ1 -                            -       PF00083 SSF103473
+A0A7R9CFS1 LLS+1,2++                    85-357  PF00083 SSF103473
+A0A7R9CNF1 -                            -       PF00083 SSF103473
+A0A7R9FMK1 LLS+1,2++                    85-357  PF00083 SSF103473

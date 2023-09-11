@@ -1,0 +1,13 @@
+H2YDP8     LS2++N                       254-510 PF00474 -
+H2YDQ0     LS2++N                       247-503 PF00474 -
+H2YET7     LS2++N                       249-505 PF00474 -
+H2YDP9     LS2++N                       254-532 PF00474 -
+H2YDQ2     -                            -       PF00474 -
+H2YEU0     LS2++N                       260-516 PF00474 -
+H2YEU1     LS2++N                       255-533 PF00474 -
+H2YEU2     LS2++N                       256-512 PF00474 -
+H2YEU3     -                            -       PF00474 -
+F6WLM3     LS2++N                       264-520 PF00474 -
+F6WM93     LS2++N                       261-517 PF00474 -
+H2YDQ1     LS2++N                       217-473 PF00474 -
+H2YET8     -                            -       PF00474 -

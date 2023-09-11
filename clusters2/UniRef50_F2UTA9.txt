@@ -1,0 +1,3 @@
+F2UTA9     -                            -       PF01079 SSF51294
+F2UIR4     LS3---C                      97-122  PF01079 SSF51294
+F2UR23     LS3---C                      50-75   PF01079 SSF51294

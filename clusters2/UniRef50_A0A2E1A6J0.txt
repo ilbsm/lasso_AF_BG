@@ -1,0 +1,6 @@
+A0A136KXK4 LS2--N                       230-432 PF01547 SSF53850
+A0A952BZ69 -                            -       PF01547 SSF53850
+A0A957BCX7 -                            -       PF13416 SSF53850
+A0A2E1A6J0 LS2--N                       230-430 PF13416 SSF53850
+A0A399Z243 LS2--N                       230-432 PF01547 SSF53850
+A0A957B8C6 -                            -       PF13416 SSF53850

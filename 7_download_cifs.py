@@ -4,6 +4,7 @@ import wget
 from tqdm import tqdm
 from collections import defaultdict
 from urllib.error import HTTPError, URLError
+from http.client import RemoteDisconnected
 
 clusters = sorted(os.listdir('clusters2'))
 cifs_to_download = []
@@ -27,5 +28,8 @@ with open('failed_downloads.txt', 'a+') as f:
                 except HTTPError:
                     f.write('{}\n'.format(uniprot_id))
                 except URLError:
+                    print('again')
+                    break
+                except RemoteDisconnected:
                     print('again')
                     break

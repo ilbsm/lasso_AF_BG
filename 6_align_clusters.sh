@@ -10,7 +10,7 @@ i=0
 for infile in fasta_clusters/*
 do
     i=$((i + 1))
-    echo $i / 351
+    echo $i / 1074
     name=`echo $infile | cut -d . -f 1 | cut -d / -f 2`
     if [ ! -f "align/$name.out.txt" ]
     then

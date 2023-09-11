@@ -4,15 +4,16 @@ from Bio.PDB.MMCIF2Dict import MMCIF2Dict
 from collections import defaultdict
 from tqdm import tqdm
 
-
-with open('lassos_clusters_most_interesting.txt', 'r') as f:
+with open('lassos_clusters_nontrivial.txt', 'r') as f:
     clusters = []
     for line in f.readlines():
         c = line.strip().split()[1]
         clusters += c.split(',')
     clusters = sorted(set(clusters))
-fasta_representatives = []
+#fasta_representatives = []
+#clusters = clusters[0:1] + ['UniRef50_A0A654H4Q6','UniRef50_A0A7M3QJV6']
 for cluster in tqdm(clusters, total = len(clusters)):
+    to_break = False
     api_url = 'https://rest.uniprot.org/uniprotkb/search?query=uniref_cluster_50:{}&size=500'.format(cluster)
     response = requests.get(api_url)
     res = response.json()['results']
@@ -37,9 +38,18 @@ for cluster in tqdm(clusters, total = len(clusters)):
         if sdomains:
             cluster_data[uniprot_id]['sdomains'] = ','.join(sdomains)
         if pdbs:
+            print(cluster)
             print(pdbs)
             cluster_data[uniprot_id]['pdbs'] = ','.join(pdbs)
-    fasta_representatives.append('>{}\n{}'.format(cluster, cluster_data[cluster.split('_')[1]]['fasta']))
+            to_break = True
+    if to_break:
+        continue
+#    if cluster in cluster_data:
+#        uniprot_id = cluster.split('_')[1]
+#        fasta_representatives.append('>{}\n{}'.format(cluster, cluster_data[uniprot_id]['fasta']))
+#    else:
+#        uniprot_id = sorted(cluster_data.keys())[0]
+#        fasta_representatives.append('>{}-{}\n{}'.format(cluster, uniprot_id, cluster_data[uniprot_id]['fasta']))
     with open('clusters/{}.txt'.format(cluster), 'r') as f:
         for line in f.readlines():
             uniprot_id, lasso, bridge = line.strip().split()
@@ -60,17 +70,8 @@ for cluster in tqdm(clusters, total = len(clusters)):
             #record = [uniprot_id, r['lasso'], r['bridge'], r['domains'], r['sdomains'], r['pdbs']]
             record = [uniprot_id, r['lasso'], r['bridge'], r['domains'], r['sdomains']]
             g.write('{:10} {:28} {:7} {} {}\n'.format(*record))
-with open('representatives_fasta.txt', 'w') as g:
-    g.write('\n'.join(fasta_representatives))
-
-
-
-
-
-
-
-
-
+#with open('representatives_fasta.txt', 'w') as g:
+#    g.write('\n'.join(fasta_representatives))
 
 
 

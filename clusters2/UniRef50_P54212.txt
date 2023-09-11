@@ -1,0 +1,5 @@
+P54212     -                            -       PF00194 SSF51069
+A0A7S3VMU6 LS2++C                       113-300 PF00194 SSF51069
+A0A7S3VMD7 LS2++C                       72-259  PF00194 SSF51069
+A0A172R2D1 -                            -       PF00194 SSF51069
+A0A172R2D9 LS2++C                       78-273  PF00194 SSF51069

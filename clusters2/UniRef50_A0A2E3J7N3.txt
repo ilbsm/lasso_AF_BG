@@ -1,0 +1,17 @@
+A0A6B1HQ54 LS3--+N                      210-282 PF05721 SSF51197
+A0A7X4FF79 LS2--N                       208-280 PF05721 SSF51197
+A0A6B1BV02 LS3--+N                      208-280 PF05721 SSF51197
+A0A6L8G004 -                            -       PF05721 SSF51197
+A0A7X3PUF5 LS3--+N                      210-282 PF05721 SSF51197
+A0A2E7MKL5 LS3--+N                      211-283 PF05721 SSF51197
+A0A3D4GXX3 LS2--N                       226-298 PF05721 SSF51197
+A0A6L7W9K1 LS3--+N                      209-281 PF05721 SSF51197
+A0A2E3J7N3 LS3--+N                      226-298 PF05721 SSF51197
+A0A6L7TAI1 -                            -       PF05721 SSF51197
+A0A6L8B433 LS2--N                       219-291 PF05721 SSF51197
+A0A7X3XQJ9 -                            -       PF05721 SSF51197
+A0A2E7JKE0 LS3--+N                      210-282 PF05721 SSF51197
+A0A496B428 LS2--N                       215-287 PF05721 SSF51197
+A0A6B1CKU6 LS2--N                       210-282 PF05721 SSF51197
+A0A7X3UMA1 LS3--+N                      208-280 PF05721 SSF51197
+A0A9E4BFA8 -                            -       PF05721 SSF51197

@@ -1,0 +1,8 @@
+A0A2G5SVS2 LS2++C                       96-280  PF00194 SSF51069
+B0K080     LS2++C                       44-228  PF00194 SSF51069
+E3LD70     LS2++C                       43-227  PF00194 SSF51069
+A0A261CT67 LS2++C                       43-227  PF00194 SSF51069
+A0A2G5SVA9 LS2++C                       44-228  PF00194 SSF51069
+A0A1I7TB76 LS2++C                       43-227  PF00194 SSF51069
+A0A261BDK7 LS2++C                       43-227  PF00194 SSF51069
+A0A8S1H0P0 -                            -       PF00194 SSF51069
